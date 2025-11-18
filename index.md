@@ -1,10 +1,10 @@
 ---
-title: Xanthan home
+title: what what 
 layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Xanthan
+# Welcome to whatever
 
 {% include figure.html
   class="right"
@@ -14,8 +14,7 @@ date: 2024-12-02
   source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
 %}
 
-Xanthan is a simple website template that makes it easy to share humanities work online in an open and sustainable way. Your digital projects can be hosted for free, always accessible, easy to update, and remain available until you decide otherwise.
-
+Did you ever wonder -   when you look upon the sky, what looks back at you?  
 At its core, Xanthan supports creative approaches to scholarship and teaching. It includes features for digital storytelling---such as a StoryMap-style interface---that invite you to present research in ways that are visually engaging and intellectually compelling.
 
 Unlike commercial platforms such as Wix or Squarespace, Xanthan emphasizes openness and durability over quick customization. Updating your site takes a little more attention to detail, but you don’t need any technical background to get started. 
