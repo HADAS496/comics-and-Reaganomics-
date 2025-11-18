@@ -1,10 +1,10 @@
 ---
-title: ואם את רוצה לברוח תברחי 
+title: maybe not 
 layout: base
 date: 2024-12-02
 ---
 
-#but why no עברית
+# whys the rum gone
 
 {% include figure.html
   class="right"
@@ -14,7 +14,7 @@ date: 2024-12-02
   source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
 %}
 
-ואם את רוצה לצרוח תצרחי, כי כלום לא קורה אצלי, מה זה להיות בך מאוהב.
+where are you
 Did you ever wonder -   when you look upon the sky, what looks back at you?  
 At its core, Xanthan supports creative approaches to scholarship and teaching. It includes features for digital storytelling---such as a StoryMap-style interface---that invite you to present research in ways that are visually engaging and intellectually compelling.
 
