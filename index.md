@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# כי הכל נובל אצלי
+#but why no עברית
 
 {% include figure.html
   class="right"
