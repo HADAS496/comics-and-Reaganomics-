@@ -5,7 +5,7 @@ layout: base
 
 # About 
 
-You'll replace all of this.
+
 
 A key strength of Xanthan is its foundation in stable, open-source technologies. Instead of relying on closed commercial services that can change direction, pricing, or availability with little warning, Xanthan is built on tools that are transparent, community maintained, and designed for long-term preservation. Static websites—simple HTML files generated from readable text—have an exceptional track record of durability. They load quickly, require almost no server infrastructure, and can be archived, migrated, or remixed with ease. This makes them an ideal medium for humanities work, where citations, context, and continuity matter as much as visual polish.
 
