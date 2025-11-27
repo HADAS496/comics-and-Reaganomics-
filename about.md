@@ -36,12 +36,6 @@ For me, the imagery is as striking as a thunderbolt illuminating the stormy skie
 
 As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
 
-{% include figure.html
-  class="center"
-  width="100%"
-  image-path="scrollstory/images/for my project/arkham video game.jpg"
-%}
-
 {% 
 include scrollybox/bg.html
 above-box-space="50vh"
@@ -52,13 +46,6 @@ box-content="
 In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game." 
 %}
 
-{% include jumbotron.html
-  height="100vh"
-  image-path="scrollstory/images/for my project/arkham video game.jpg"
-%}
-
-<p style="clear:both"></p>
-In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game. 
 
 The very mention of Arkham Asylum, for me, conjured a haunting comparison; those gates, emblazoned with the name “Arkham Asylum,” echo the chilling inscription “arbeit macht frei” from Auschwitz—a reminder of the nature of such places. Their promise of liberation is but a deadly joke.  
 
