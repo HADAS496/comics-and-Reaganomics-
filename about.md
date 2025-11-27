@@ -8,7 +8,7 @@ layout: base
 
 {% include juxtapose.html
 image1="scrollstory\images\for my project\good asylum.jpg"
-image2="/scrollstories/forest/images/mvh-hist-common-room.jpg"
+image2="scrollstory\images\for my project\bad asylum.jpg"
 %}
 
 Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? 
