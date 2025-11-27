@@ -31,11 +31,12 @@ For me, the imagery is as striking as a thunderbolt illuminating the stormy skie
 
 
 As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
-{%
-include scrollybox/bg.html
-height="100vh"
-image-path="scrollstory\images\for my project\arkham video game.jpg"
+
+{% include jumbotron.html
+  height="50vh"
+  image-path="scrollstory\images\for my project\arkham video game.jpg"
 %}
+
 <p style="clear:both"></p>
 In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game. 
 
