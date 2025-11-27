@@ -26,6 +26,11 @@ For me, the imagery is as striking as a thunderbolt illuminating the stormy skie
   caption="1995, me dressed as Batman for Purim"
   image-path="scrollstory\images\for my project\me as little batman.png"
 %}
+
+
+
+
+
 As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
 
 {% 
