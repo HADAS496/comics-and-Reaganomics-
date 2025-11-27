@@ -36,6 +36,10 @@ As a little girl, I donned a homemade cape, stitched together by my indomitable 
 
 
 
+
+<p style="clear:both"></p>
+In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game. The very mention of Arkham Asylum, for me, conjured a haunting comparison; those gates, emblazoned with the name “Arkham Asylum,” echo the chilling inscription “arbeit macht frei” from Auschwitz—a reminder of the nature of such places. Their promise of liberation is but a deadly joke.  
+
 {% include figure.html
 class="left"
 width="48%"
@@ -49,9 +53,6 @@ width="48%"
 caption="The main gate to Auschwitz I, the original camp, bearing the infamous wrought-iron sign “Arbeit macht frei” (“works sets you free”)"
 image-path="scrollstory\images\for my project\auschwitz.png"
 %}
-
-<p style="clear:both"></p>
-In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game. The very mention of Arkham Asylum, for me, conjured a haunting comparison; those gates, emblazoned with the name “Arkham Asylum,” echo the chilling inscription “arbeit macht frei” from Auschwitz—a reminder of the nature of such places. Their promise of liberation is but a deadly joke.  
 
 
 Thus, when I learned that the very word of Asylum as, rather than hopeless prison that masks itself as psychiatric guard, meant to convey a place of hope and shelter, I was confused. Arkham Asylum, with its haunting corridors, is not just a backdrop for the caped crusader's adventures; I realized it embodies a profound commentary on mental health, societal fears, and the stigmas that have persisted throughout American history. 
