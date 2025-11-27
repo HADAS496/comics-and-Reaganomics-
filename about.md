@@ -13,12 +13,13 @@ image2="scrollstory\images\for my project\bad asylum.jpg"
 
 Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? Or perhaps your mind wanders to a haunting, gothic manor, its towering spires piercing the sky, guarded by iron gates that seem to whisper tales of sorrow—an institution that offers hope yet often falls tragically short in its promise to nurture the fragile souls within? 
 
-For me, the imagery is as striking as a thunderbolt illuminating the stormy skies over Arkham Asylum. {% include figure.html
+{% include figure.html
   class="right"
   width="55%"
   caption="From Batman: the animated series (1992)"
   image-path="scrollstory\images\for my project\arkham asylum lightening.jpg"
-%} Yes, you’ve guessed it—when I hear “Asylum,” I’m transported back to the 1990s, to the intoxicating world of the Batman animated series. 
+%}  
+For me, the imagery is as striking as a thunderbolt illuminating the stormy skies over Arkham Asylum Yes, you’ve guessed it—when I hear “Asylum,” I’m transported back to the 1990s, to the intoxicating world of the Batman animated series. 
 {% include figure.html
   class="left"
   width="35%"
