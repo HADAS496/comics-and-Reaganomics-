@@ -36,7 +36,21 @@ As a little girl, I donned a homemade cape, stitched together by my indomitable 
 
 
 
+{% include figure.html
+class="left"
+width="48%"
+caption="Arkham Asylum as portrayed in Batman's video games"
+image-path="scrollstory\images\for my project\arkham asylum auschwitz.png"
+%}
 
+{% include figure.html
+class="left"
+width="48%"
+caption="The main gate to Auschwitz I, the original camp, bearing the infamous wrought-iron sign “Arbeit macht frei” (“works sets you free”)"
+image-path="scrollstory\images\for my project\auschwitz.png"
+%}
+
+<p style="clear:both"></p>
 In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game. The very mention of Arkham Asylum, for me, conjured a haunting comparison; those gates, emblazoned with the name “Arkham Asylum,” echo the chilling inscription “arbeit macht frei” from Auschwitz—a reminder of the nature of such places. Their promise of liberation is but a deadly joke.  
 
 
