@@ -22,6 +22,8 @@ Do you see a serene sanctuary, bathed in warm light, where those seeking safety 
 For me, the imagery is as striking as a thunderbolt illuminating the stormy skies over Arkham Asylum. Yes, you’ve guessed it—when I hear “Asylum,” I’m transported back to the 1990s, to the intoxicating world of the Batman animated series. 
 
 
+
+
 {% include figure.html
   class="left"
   width="25%"
@@ -31,6 +33,12 @@ For me, the imagery is as striking as a thunderbolt illuminating the stormy skie
 
 
 As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
+
+{% include figure.html
+  class="center"
+  width="100%"
+  image-path=" image-path="scrollstory\images\for my project\arkham video game.jpg"
+%}
 
 {% include jumbotron.html
   height="50vh"
