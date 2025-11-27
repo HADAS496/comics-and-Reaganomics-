@@ -24,7 +24,7 @@ For me, the imagery is as striking as a thunderbolt illuminating the stormy skie
 
 {% include figure.html
   class="left"
-  width="45%"
+  width="25%"
   caption="1995, me dressed as Batman for Purim"
   image-path="scrollstory\images\for my project\me as little batman.png"
 %}
