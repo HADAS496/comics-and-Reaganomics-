@@ -11,13 +11,18 @@ image1="scrollstory\images\for my project\good asylum.jpg"
 image2="scrollstory\images\for my project\bad asylum.jpg"
 %}
 
-Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? 
-
-
-Or perhaps your mind wanders to a haunting, gothic manor, its towering spires piercing the sky, guarded by iron gates that seem to whisper tales of sorrow—an institution that offers hope yet often falls tragically short in its promise to nurture the fragile souls within? 
+Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? Or perhaps your mind wanders to a haunting, gothic manor, its towering spires piercing the sky, guarded by iron gates that seem to whisper tales of sorrow—an institution that offers hope yet often falls tragically short in its promise to nurture the fragile souls within? 
 
 
 For me, the imagery is as striking as a thunderbolt illuminating the stormy skies over Arkham Asylum. Yes, you’ve guessed it—when I hear “Asylum,” I’m transported back to the 1990s, to the intoxicating world of the Batman animated series. As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
+
+{% include figure.html
+  class="right"
+  width="60%"
+  caption="1995, me dressed as Batman for Purim"
+  image-path="scrollstory\images\for my project\me as little batman.png"
+%}
+
 
 
 In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game. The very mention of Arkham Asylum, for me, conjured a haunting comparison; those gates, emblazoned with the name “Arkham Asylum,” echo the chilling inscription “arbeit macht frei” from Auschwitz—a reminder of the nature of such places. Their promise of liberation is but a deadly joke.  
