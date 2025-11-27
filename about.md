@@ -3,10 +3,15 @@ title: About
 layout: base
 ---
 
-# About 
+# When you hear the word “Asylum,” what vivid images come to life in your mind? 
 
 
-When you hear the word “Asylum,” what vivid images come to life in your mind? Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? 
+{% include juxtapose.html
+image1="scrollstory\images\for my project\good asylum.jpg"
+image2="/scrollstories/forest/images/mvh-hist-common-room.jpg"
+%}
+
+Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? 
 
 
 Or perhaps your mind wanders to a haunting, gothic manor, its towering spires piercing the sky, guarded by iron gates that seem to whisper tales of sorrow—an institution that offers hope yet often falls tragically short in its promise to nurture the fragile souls within? 
