@@ -15,14 +15,14 @@ Do you see a serene sanctuary, bathed in warm light, where those seeking safety 
 
 {% include figure.html
   class="right"
-  width="65%"
+  width="95%"
   caption="From Batman: the animated series (1992)"
   image-path="scrollstory\images\for my project\arkham asylum lightening.jpg"
 %}  
 For me, the imagery is as striking as a thunderbolt illuminating the stormy skies over Arkham Asylum. Yes, you’ve guessed it—when I hear “Asylum,” I’m transported back to the 1990s, to the intoxicating world of the Batman animated series. 
 {% include figure.html
   class="left"
-  width="45%"
+  width="55%"
   caption="1995, me dressed as Batman for Purim"
   image-path="scrollstory\images\for my project\me as little batman.png"
 %}
