@@ -56,14 +56,14 @@ The very mention of Arkham Asylum, for me, conjured a haunting comparison; those
 class="left"
 width="44%"
 caption="Arkham Asylum as portrayed in Batman's video games"
-image-path="scrollstory\images\for my project\arkham asylum auschwitz.png"
+image-path="scrollstory/images/for my project/arkham asylum auschwitz.png"
 %}
 
 {% include figure.html
 class="left"
 width="52%"
 caption="The main gate to Auschwitz I, the original camp, bearing the infamous wrought-iron sign “Arbeit macht frei” (“works sets you free”)"
-image-path="scrollstory\images\for my project\auschwitz.png"
+image-path="scrollstory/images/for my project/auschwitz.png"
 %}
 
 
@@ -71,7 +71,7 @@ Thus, when I learned that the very word of Asylum as, rather than hopeless priso
 {%
 include scrollybox/bg.html
 height="100vh"
-image-path="scrollstory\images\for my project\arkham video game poster.png"
+image-path="scrollstory/images/for my project/arkham video game poster.png"
 %}
 This surprising duality lies at the heart of my exploration, beckoning me to delve deeper into its layers and intricacies. How does Arkham reflect the evolving understanding of mental illness? What cultural currents have molded it into something more than a mere institution for the mentally ill?  This intertwining of history, mental health, and popular culture paints a rich picture, one that I forever want to explore and reflect on how the characters we idolize—and those we vilify shaped by the very societal fears we struggle to confront. Join me as I take this journey to reveal not just the nature of the asylum, but also the dark corners of our collective psyche.  
  
