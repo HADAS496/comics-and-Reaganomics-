@@ -37,7 +37,7 @@ As a little girl, I donned a homemade cape, stitched together by my indomitable 
 {% include figure.html
   class="center"
   width="100%"
-  image-path=" image-path="scrollstory\images\for my project\arkham video game.jpg"
+  image-path="scrollstory\images\for my project\arkham video game.jpg"
 %}
 
 {% include jumbotron.html
