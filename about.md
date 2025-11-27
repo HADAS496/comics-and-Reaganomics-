@@ -45,14 +45,14 @@ In the late 2000s, I plunged deeper into this dark universe, playing the Arkham 
 
 {% include figure.html
 class="left"
-width="48%"
+width="46%"
 caption="Arkham Asylum as portrayed in Batman's video games"
 image-path="scrollstory\images\for my project\arkham asylum auschwitz.png"
 %}
 
 {% include figure.html
 class="left"
-width="55%"
+width="50%"
 caption="The main gate to Auschwitz I, the original camp, bearing the infamous wrought-iron sign “Arbeit macht frei” (“works sets you free”)"
 image-path="scrollstory\images\for my project\auschwitz.png"
 %}
