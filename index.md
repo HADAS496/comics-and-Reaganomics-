@@ -34,10 +34,13 @@ As the plot thickens, our heroes, Batman and Robin, spring into action, racing a
   title=""
 %}
 
+
+{% include scrollybox/bg-sticky.html
+ image-path="scrollstory/images/for my project/1974 batman 258 finale.png"  
+  below-box-space="80vh"
+  box-content="
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!”
- 
-
-
+%}
 
 So, what was really going on during this time that might have bled into the most escapist form of reading, found in Batman’s comic book adventures?
 Layered within this debut issue of Arkham is the context of the Cold War, a period profoundly shaped by the aftermath of World War II and the traumatic legacy of the atomic bombings of Hiroshima and Nagasaki. In the wake of these events, the United States and the Soviet Union emerged as superpowers, but rather than uniting the world, they fostered a fierce rivalry that would define an era. During the Cold War, while direct military confrontations between the two super-powers were rare, the ever-present threat of nuclear annihilation cast a dark shadow over society, igniting a wave of national paranoia throughout the whole duration of the Cold War. [^note3]
