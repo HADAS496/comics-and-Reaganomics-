@@ -8,9 +8,8 @@ date: 2024-12-02
 
 The origins of Arkham Asylum in the Batman comics date back to 1974, where it was first introduced as a hospital. However, a revealing caption makes it clear: it is merely “a polite name for an asylum which houses the criminally insane.” This unsettling duality sets the stage for a gripping narrative filled with tension and intrigue.
 The story kicks off dramatically with the shocking escape of Two-Face, also known as Harvey Dent, from Arkham Hospital. The very cover-page captures the reader's attention, describing Two-Face as “the crook who bases his crimes on the number two! He was on the side of the law until a criminal scarred half his face with acid! Now he’s a mixture of good and evil!” 
+
 As the plot thickens, our heroes, Batman and Robin, spring into action, racing against time to recapture Two-Face. His escape from Arkham was orchestrated by a renegade military general named John Harris, who believes “the nation is going to the dogs!” Disillusioned with the current state of affairs, Harris devises a chaotic scheme to hold Washington D.C. ransom using an atomic bomb, enlisting the twisted talents of Two-Face in his perilous plot.
-
-
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!”
 
@@ -25,7 +24,10 @@ As with every Batman comic from that time, the story ends with the successful de
 
  
 So, what was really going on during this time that might have bled into the most escapist form of reading, found in Batman’s comic book adventures?
-Layered within this debut issue of Arkham is the context of the Cold War, a period profoundly shaped by the aftermath of World War II and the traumatic legacy of the atomic bombings of Hiroshima and Nagasaki. In the wake of these events, the United States and the Soviet Union emerged as superpowers, but rather than uniting the world, they fostered a fierce rivalry that would define an era. During the Cold War, while direct military confrontations between the two super-powers were rare, the ever-present threat of nuclear annihilation cast a dark shadow over society, igniting a wave of national paranoia throughout the whole duration of the Cold War. (Odd Arne Westad, The Global Cold War Third World Interventions and the Making of Our Times (Cambridge University Press, 2005), 2-4).
+Layered within this debut issue of Arkham is the context of the Cold War, a period profoundly shaped by the aftermath of World War II and the traumatic legacy of the atomic bombings of Hiroshima and Nagasaki. In the wake of these events, the United States and the Soviet Union emerged as superpowers, but rather than uniting the world, they fostered a fierce rivalry that would define an era. During the Cold War, while direct military confrontations between the two super-powers were rare, the ever-present threat of nuclear annihilation cast a dark shadow over society, igniting a wave of national paranoia throughout the whole duration of the Cold War. [^note1]
+
+[^note1]: Odd Arne Westad, The Global Cold War Third World Interventions and the Making of Our Times (Cambridge University Press, 2005), 2-4.
+
 
 
 
