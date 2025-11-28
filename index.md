@@ -22,13 +22,13 @@ date: 2024-12-02
   image-path="scrollstory/images/for my project/1974 batman 258 cover.png"
 %}
 
-The story kicks off dramatically with the shocking escape of Two-Face, also known as Harvey Dent, from Arkham Hospital. The very cover-page captures the reader's attention, describing Two-Face as “the crook who bases his crimes on the number two! He was on the side of the law until a criminal scarred half his face with acid! Now he’s a mixture of good and evil!”[^note2]
+### The story kicks off dramatically with the shocking escape of Two-Face, also known as Harvey Dent, from Arkham Hospital. The very cover-page captures the reader's attention, describing Two-Face as “the crook who bases his crimes on the number two! He was on the side of the law until a criminal scarred half his face with acid! Now he’s a mixture of good and evil!”[^note2]
 
 [^note2]: O'neil, *Batman* #258, 1.
 
 {% include jumbotron.html
   height="50vh"
-  image-path="scrollstory\images\for my project\1974 batman 258 p9 Harris.png"
+  image-path="scrollstory/images/for my project/1974 batman 258 p9 Harris.png"
   title=""
 %}
 
