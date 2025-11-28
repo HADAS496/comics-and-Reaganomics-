@@ -14,7 +14,7 @@ date: 2024-12-02
 The origins of Arkham Asylum in the Batman comics date back to 1974, where it was first introduced as a hospital. However, a revealing caption makes it clear: it is merely “a polite name for an asylum which houses the criminally insane.”[^note1] 
 
 [^note1]:Dennis O’neil, “threat of the two-Headed coin,” *Batman* #258 (NY: Dc comics, october 1974), 7.
- This unsettling duality sets the stage for a gripping narrative filled with tension and intrigue.
+This unsettling duality sets the stage for a gripping narrative filled with tension and intrigue.
 
 {% include figure.html
   class="right"
@@ -30,6 +30,9 @@ As the plot thickens, our heroes, Batman and Robin, spring into action, racing a
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!”
  
+
+
+
 So, what was really going on during this time that might have bled into the most escapist form of reading, found in Batman’s comic book adventures?
 Layered within this debut issue of Arkham is the context of the Cold War, a period profoundly shaped by the aftermath of World War II and the traumatic legacy of the atomic bombings of Hiroshima and Nagasaki. In the wake of these events, the United States and the Soviet Union emerged as superpowers, but rather than uniting the world, they fostered a fierce rivalry that would define an era. During the Cold War, while direct military confrontations between the two super-powers were rare, the ever-present threat of nuclear annihilation cast a dark shadow over society, igniting a wave of national paranoia throughout the whole duration of the Cold War. [^note3]
 
