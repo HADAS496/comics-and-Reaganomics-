@@ -26,13 +26,13 @@ date: 2024-12-02
 
 [^note2]: O'neil, *Batman* #258, 1.
 
+As the plot thickens, our heroes, Batman and Robin, spring into action, racing against time to recapture Two-Face. His escape from Arkham was orchestrated by a renegade military general named John Harris, who believes “the nation is going to the dogs!” Disillusioned with the current state of affairs, Harris devises a chaotic scheme to hold Washington D.C. ransom using an atomic bomb, enlisting the twisted talents of Two-Face in his perilous plot.
+
 {% include jumbotron.html
-  height="50vh"
+  height="75vh"
   image-path="scrollstory/images/for my project/1974 batman 258 p9 Harris.png"
   title=""
 %}
-
-As the plot thickens, our heroes, Batman and Robin, spring into action, racing against time to recapture Two-Face. His escape from Arkham was orchestrated by a renegade military general named John Harris, who believes “the nation is going to the dogs!” Disillusioned with the current state of affairs, Harris devises a chaotic scheme to hold Washington D.C. ransom using an atomic bomb, enlisting the twisted talents of Two-Face in his perilous plot.
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!”
  
