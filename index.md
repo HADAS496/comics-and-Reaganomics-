@@ -31,7 +31,7 @@ The origins of Arkham Asylum in the Batman comics date back to 1974, where it wa
 The story kicks off dramatically with the shocking escape of Two-Face, also known as Harvey Dent, from Arkham Hospital. The very cover-page captures the reader's attention, describing Two-Face as “the crook who bases his crimes on the number two! He was on the side of the law until a criminal scarred half his face with acid! Now he’s a mixture of good and evil!”[^note2]
 
 [^note2]: O'neil, *Batman* #258, 1.
-
+{% include scrollybox/bg-ss-close.html %}
 As the plot thickens, our heroes, Batman and Robin, spring into action, racing against time to recapture Two-Face. His escape from Arkham was orchestrated by a renegade military general named John Harris, who believes “the nation is going to the dogs!” Disillusioned with the current state of affairs, Harris devises a chaotic scheme to hold Washington D.C. ransom using an atomic bomb, enlisting the twisted talents of Two-Face in his perilous plot.
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!”
