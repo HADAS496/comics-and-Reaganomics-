@@ -26,7 +26,7 @@ As with every Batman comic from that time, the story ends with the successful de
 So, what was really going on during this time that might have bled into the most escapist form of reading, found in Batman’s comic book adventures?
 Layered within this debut issue of Arkham is the context of the Cold War, a period profoundly shaped by the aftermath of World War II and the traumatic legacy of the atomic bombings of Hiroshima and Nagasaki. In the wake of these events, the United States and the Soviet Union emerged as superpowers, but rather than uniting the world, they fostered a fierce rivalry that would define an era. During the Cold War, while direct military confrontations between the two super-powers were rare, the ever-present threat of nuclear annihilation cast a dark shadow over society, igniting a wave of national paranoia throughout the whole duration of the Cold War. [^note1]
 
-[^note1]: Odd Arne Westad, The Global Cold War Third World Interventions and the Making of Our Times (Cambridge University Press, 2005), 2-4.
+[^note1]: Odd Arne Westad, ***The Global Cold War Third World Interventions and the Making of Our Times*** (Cambridge University Press, 2005), 2-4.
 
 
 Indeed, in this specific comic book, there are tones of panels that include explanations on how nuclear bomb works and mentions of Hiroshima:
@@ -34,7 +34,7 @@ Indeed, in this specific comic book, there are tones of panels that include expl
  
 In the early years of the Cold War, the nation was gripped by fears, not only of nuclear missiles targeting its borders but also of threats lurking within its own society. There was a growing anxiety surrounding "traitors from within" — double agents and Soviet sympathizers who could easily masquerade as everyday Americans.[^note2]
 
-[^note2]: Jhonson 89, 105. 
+[^note2]: Jenell M. Johnson, ***American Lobotomy: A Rhetorical History*** (University of Michigan Press, 2014), 89, 105. 
 This atmosphere of suspicion is vividly illustrated in this Batman comic, even as a side character appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits. Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring the villain Two-Face to extort the very government that once employed them both. All in all, this narrative is steeped in a chilling atmosphere of Cold War paranoia of a society already teetering on the brink. 
 
 
