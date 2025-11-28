@@ -21,7 +21,7 @@ The origins of Arkham Asylum in the Batman comics date back to 1974, where it wa
 
 [^note1]:Dennis O’neil, “threat of the two-Headed coin,” *Batman* #258 (NY: Dc comics, october 1974), 7.
  This unsettling duality sets the stage for a gripping narrative filled with tension and intrigue.
-
+{% include scrollybox/bg-ss-close.html %}
 
 {% include scrollybox/bg-ss-image.html
   image-path="scrollstory/images/for my project/1974 batman 258 cover.png"
