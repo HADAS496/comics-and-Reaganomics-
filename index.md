@@ -21,13 +21,15 @@ The origins of Arkham Asylum in the Batman comics date back to 1974, where it wa
 
 [^note1]:Dennis O’neil, “threat of the two-Headed coin,” *Batman* #258 (NY: Dc comics, october 1974), 7.
  This unsettling duality sets the stage for a gripping narrative filled with tension and intrigue.
-{% include scrollybox/bg-ss-close.html %}
+
+
 
 {% include scrollybox/bg-ss-image.html
   image-path="scrollstory/images/for my project/1974 batman 258 cover.png"
   switch-id="switch2"
   ss-id="ss1"
 %}
+
 The story kicks off dramatically with the shocking escape of Two-Face, also known as Harvey Dent, from Arkham Hospital. The very cover-page captures the reader's attention, describing Two-Face as “the crook who bases his crimes on the number two! He was on the side of the law until a criminal scarred half his face with acid! Now he’s a mixture of good and evil!”[^note2]
 
 [^note2]: O'neil, *Batman* #258, 1.
