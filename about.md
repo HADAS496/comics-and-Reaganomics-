@@ -9,6 +9,7 @@ layout: base
 {% include juxtapose.html
 image1="scrollstory\images\for my project\good asylum.jpg"
 image2="scrollstory\images\for my project\bad asylum.jpg"
+caption="move the border to see which one you have in mind!"
 %}
 
 Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? Or perhaps a haunting, gothic manor, its towering spires piercing the sky, guarded by iron gates that seem to whisper tales of sorrow— an institution that offers hope yet often falls tragically short in its promise to nurture the fragile souls within? 
