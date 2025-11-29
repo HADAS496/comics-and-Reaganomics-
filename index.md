@@ -1,5 +1,5 @@
 ---
-title: The Bad and the Mad 
+title: maybe not 
 layout: base
 date: 2024-12-02
 ---
