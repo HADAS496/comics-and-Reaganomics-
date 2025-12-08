@@ -33,21 +33,14 @@ As the plot thickens, our heroes, Batman and Robin, spring into action, racing a
   title=""
 %}
 
-
 {% 
 include scrollybox/bg.html
-above-box-space="50vh" 
-   below-box-space="50vh" 
-   height="100vh" 
-   image-path="scrollstory/images/for my project/1974 batman 258 finale.png" 
-   box-content="As with every Batman comic from that time, the story ends with ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!""
-%}
-
-{% include scrollybox/bg-sticky.html
- image-path="scrollstory/images/for my project/1974 batman 258 finale.png"  
-  below-box-space="80vh"
-  box-content="
-As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!”
+above-box-space="50vh"
+below-box-space="50vh"
+height="100vh"
+image-path=""scrollstory/images/for my project/1974 batman 258 finale.png"  
+box-content=" 
+As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of “Bam!” and “KA-PAW!” "
 %}
 
 So, what was really going on during this time that might have bled into the most escapist form of reading, found in Batman’s comic book adventures?
