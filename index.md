@@ -1,7 +1,6 @@
 ---
-title: maybe not 
+title: 
 layout: base
-date: 2024-12-02
 ---
 
 # From “Hospital for the Criminally Insane” to “Plot Device” – A Cultural History of Arkham Asylum
