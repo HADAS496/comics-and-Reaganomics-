@@ -36,9 +36,10 @@ As the plot thickens, our heroes, Batman and Robin, spring into action, racing a
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of ”POW!,” “Bam!” and “KA-PAW!”
 
-{% include jumbotron.html
-  height="60vh"
-  image-path="scrollstory\images\for my project\1974 batman 258 finale.png.png"
-  title=""
+{% include figure.html
+  class="right"
+  width="50%"
+  image-path="scrollstory/images/for my project/1974 batman 258 finale.png"
 %}
+
 
