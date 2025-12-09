@@ -38,7 +38,7 @@ As with every Batman comic from that time, the story ends with the successful de
 
 {% include figure.html
   class="center"
-  width="1000%"
+  width="100%"
   image-path="scrollstory/images/for my project/1974 batman 258 finale.png"
 %}
 
