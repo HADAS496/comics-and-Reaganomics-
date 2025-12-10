@@ -140,8 +140,8 @@ What probably triggered this nuclear panic we are witnessing in this comic was t
   caption="from *Batman* #258, 1974 p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
-In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^note666]Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.
-[^note666]:  Jenell M. Johnson, *American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability* (University of Michigan Press, 2014) pp. 89, 105.
+In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^noteq] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.
+[^noteq]: Jenell M. Johnson, *American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability* (University of Michigan Press, 2014) pp. 89, 105.
 
 
 {% include figure.html
@@ -199,7 +199,11 @@ In particular, Wertham refers to Batman and Robin relationship, targeting a spec
 
 This book played a significant role in the criticism of comics during that time, so much that in response to the raising accusations, and in a self-censoring move, the comic books industry established its own code of conduct, that was then updated every decade.[^note6]
 
-[^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers: 2012), p. 5, 70; Babic, *Comics as History*, p.7.  
+[^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers: 2012), p. 5, 70; Babic, *Comics as History*, p.7. 
+
+The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
+
+
 
 
 
