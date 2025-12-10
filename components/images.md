@@ -281,3 +281,42 @@ We can also do [background scrollboxes](bg-scrollbox), [background switching](bg
 
 If you are having trouble getting your image to appear, you're not the first one to have this problem! It's a common issue for folks dipping their toes into coding. Hop over to our [troubleshooting page](../guides/troubleshooting). Probably, the image PATH and/or FILENAME does not match exactly where your image is located or the name of the file.
 
+
+
+
+{% 
+assign images = 
+"/scrollstory/images/for my project/1946 1.png,
+/scrollstory/images/for my project/1946 2.png,
+/scrollstory//images/for my project/1945.png" | split: ','
+%}
+
+{% 
+assign headers = 
+"A Photo Title,,
+One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill." | split: ','
+%}
+
+{%
+assign captions = 
+"It's useful to have informative captions|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
+{%
+assign captions = 
+"" | split: '|'
+%}
+
+{% include carousel.html
+height = 100vh
+width = "80%"
+class = "center"
+images = images
+headers = headers
+captions = captions 
+%}
+
+
+<p style="clear:both"></p>
