@@ -220,8 +220,7 @@ When the image on the right gets to the top of the page, it will stop scrolling,
 %}
 
 #### In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era.
-One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
-
+ 
 {% include scrollybox/bg-ss-image.html
   image-path="scrollstory/images/for my project/1945.png"
   switch-id="switch2"
