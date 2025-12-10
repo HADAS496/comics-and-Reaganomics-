@@ -204,18 +204,18 @@ This book played a significant role in the criticism of comics during that time,
 The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
 
-# In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
+In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 
 {% include figure.html
-  class="center"
-  width="50%"
+  class="left"
+  width="30%"
   caption=""
   image-path="scrollstory\images\for my project\1946 1.png"
 %}
 
 {% include figure.html
-  class="center"
-  width="50%"
+  class="right"
+  width="30%"
   caption=""
   image-path="scrollstory\images\for my project\1946 2.png"
 %}
