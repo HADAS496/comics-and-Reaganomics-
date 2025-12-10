@@ -203,34 +203,25 @@ This book played a significant role in the criticism of comics during that time,
 
 The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
-{% 
-assign images = 
-"/scrollstory/images/for my project/1946 1.png,
-/scrollstory/images/for my project/1945.png,
-/scrollstory/images/for my project/1946 2" | split: ','
-%}
 
-{% 
-assign headers = Photos featured in Maisel's work.
-"from Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.105" | split: ','
-%}
-
-{%
-assign captions = 
-"Survivors in multi-tiered bunks in the infirmary barracks of the liberated Buchenwald concentration camp. The original caption reads "Intolerable filth surrounds patients in "hospital" at Buchenwald concentration camp near Weimar, Germany. Disease, malnutrition above all, plus incessant torture, resulted in approximately 20 deaths a day." Photograph by Rex L. Dave, 16 April 1945.|
-" | split: '|'
-%}
-
-{% include carousel.html
-width = "60%"
-class = "right"
-images = images
-headers = headers
-captions = captions 
+<!-- this is an unclosed div that needs to be closed with ss-close-->
+{% include scrollybox/bg-ss.html
+  ss-id="ss1"
+  pre-box-space="0"
 %}
 
 
+{% include scrollybox/bg-ss-image.html
+  image-path="scrollstory/images/for my project/1946 1.png"
+  switch-id="switch1"
+  ss-id="ss1"
+%}
 
+In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 
-
-
+{% include scrollybox/bg-ss-image.html
+  image-path="scrollstory/images/for my project/1945.png"
+  switch-id="switch2"
+  ss-id="ss1"
+%}
+One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
