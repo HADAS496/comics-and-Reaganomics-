@@ -1,5 +1,5 @@
 ---
-title: Forest
+title: Main Project
 author: Fred Gibbs
 layout: base
 date: 2025-07-21
@@ -14,7 +14,6 @@ placename: Yellowstone National Park
 tags:
   - music
 ---
-
 # From “Hospital for the Criminally Insane” to “Plot Device” – A Cultural History of Arkham Asylum
 {% include figure.html
   class="left"
