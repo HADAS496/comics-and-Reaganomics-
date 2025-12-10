@@ -207,7 +207,7 @@ The fact that Wertham chose to speak out against comics, leveraging his authorit
 include scrollybox/bg.html
 above-box-space="25vh"
 below-box-space="25vh"
-height="100vh"
+height="50vh"
 image-path="scrollstory/images/for my project/1946 2.png"  
 box-content=" 
 In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era." 
