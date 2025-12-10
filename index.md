@@ -204,7 +204,7 @@ This book played a significant role in the criticism of comics during that time,
 The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
 
-In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
+# In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 
 <!-- this is an unclosed div that needs to be closed with ss-close-->
 {% include scrollybox/bg-ss.html
@@ -220,10 +220,8 @@ In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreakin
 %}
 
 
+### ANOTHER IMAGE One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
 
-
-
-### ANOTHER IMAGE
 
 {% include scrollybox/bg-ss-image.html
   image-path=""scrollstory/images/for my project/1945.png"
@@ -231,7 +229,7 @@ In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreakin
   ss-id="ss1"
 %}
 
-At this point in the text, we've anchored a new image that will scroll up and replace the previous image. 
+
 One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
 
 {% include scrollybox/bg-ss-close.html %}
