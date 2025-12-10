@@ -78,7 +78,7 @@ image-path="scrollstory/images/for my project/auschwitz.png"
   caption="Arkham is mentioned for the first time in *Batman* #258, 1974, p.7"
   image-path="scrollstory/images/for my project/1974 Batman 258 p7.png"
 %}
-## The origins of Arkham Asylum in the Batman comics date back to 1974, where it was first introduced as a hospital. However, a revealing caption makes it clear: it is merely “a polite name for an asylum which houses the criminally insane.” This unsettling duality sets the stage for a gripping  narrative filled with tension and intrigue.[^note1] 
+## The origins of Arkham Asylum in the Batman comics date back to 1974, when it was first introduced as a hospital. However, a revealing caption makes it clear: it is merely “a polite name for an asylum which houses the criminally insane.” This unsettling duality sets the stage for a gripping  narrative filled with tension and intrigue.[^note1] 
 
 [^note1]:Dennis O’neil, “threat of the two-Headed coin,” *Batman* #258 (NY: Dc comics, october 1974), 7.
 
