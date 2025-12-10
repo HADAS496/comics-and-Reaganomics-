@@ -149,7 +149,20 @@ Turns out that plot twists weren't just the realm of DC Comics—politicians wer
 
 This climate bled also into popular culture, and, in our case, superhero comics. 
 
+{% include figure.html
+  class="right"
+  width="30%"
+  caption=""
+  image-path="scrollstory\images\for my project\batman hitler.jpg"
+%}
+
+{% include figure.html
+  class="left"
+  width="30%"
+  caption=""
+  image-path="scrollstory/images/for my project/s-l1200.jpg"
+%}
 
 
-
+The iconic superhero figures such as Batman and Superman emerged in the United States during the late 1930s, embodying the ideals of strength and power characteristic of the American Dream. During this formative era, which lasted till the early 1950s, there was a notable proliferation of superhero narratives and an unprecedented flourishing of comic book publications. If you want to sound like an expert, all you should say is "The Golden Age of Comics," a term that defines these "simpler" times, just before the Cold War made everything more complicated
 
