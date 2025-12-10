@@ -204,6 +204,32 @@ This book played a significant role in the criticism of comics during that time,
 
 The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
+{% 
+assign images = 
+"/scrollstories/scrollstory/images/for my project/1946 1.png,
+/scrollstories/scrollstory/images/for my project/1945.png,
+/scrollstories/scrollstory/images/for my project/1946 2" | split: ','
+%}
+
+{% 
+assign headers = Photos featured in Maisel's work.
+"from Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.105" | split: ','
+%}
+
+{%
+assign captions = 
+"Survivors in multi-tiered bunks in the infirmary barracks of the liberated Buchenwald concentration camp. The original caption reads "Intolerable filth surrounds patients in "hospital" at Buchenwald concentration camp near Weimar, Germany. Disease, malnutrition above all, plus incessant torture, resulted in approximately 20 deaths a day." Photograph by Rex L. Dave, 16 April 1945.|
+" | split: '|'
+%}
+
+{% include carousel.html
+width = "60%"
+class = "right"
+images = images
+headers = headers
+captions = captions 
+%}
+
 
 
 
