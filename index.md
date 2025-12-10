@@ -167,13 +167,13 @@ This climate bled also into popular culture, and, in our case, superhero comics.
 The iconic superhero figures such as Batman and Superman emerged in the United States during the late 1930s, embodying the ideals of strength and power characteristic of the American Dream. During this formative era, which lasted till the early 1950s, there was a notable proliferation of superhero narratives and an unprecedented flourishing of comic book publications. If you want to sound like an expert, all you should say is "The Golden Age of Comics," a term that defines these "simpler" times, just before the Cold War made everything more complicated.
 
 
-During that same time, concerns about rising youth crime led many people to blame comic books for this problem. As a result, the superhero comic industry faced a decline and came under intense scrutiny. Frederick Wertham, a German-American psychiatrist, published a book in 1954 called Seduction of the Innocent. In it, he argued that comic books were promoting violent behavior and encouraging unhealthy sexual attitudes among young people. (Ann Annessa Babic, Comics as History, Comics as Literature: Roles of the Comic Book in Scholarship, Society, and Entertainment (Fairleigh Dickinson university press, 2014), 135-137. 
-
-
 {% include figure.html
   class="right"
   width="60%"
   caption=""
   image-path="scrollstory\images\for my project\yw18xu018ju81.jpg"
 %}
+During that same time, concerns about rising youth crime led many people to blame comic books for this problem. As a result, the superhero comic industry faced a decline and came under intense scrutiny. Frederick Wertham, a German-American psychiatrist, published a book in 1954 called Seduction of the Innocent. In it, he argued that comic books were promoting violent behavior and encouraging unhealthy sexual attitudes among young people. (Ann Annessa Babic, Comics as History, Comics as Literature: Roles of the Comic Book in Scholarship, Society, and Entertainment (Fairleigh Dickinson university press, 2014), 135-137. 
+
+
 
