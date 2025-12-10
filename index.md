@@ -143,8 +143,6 @@ What probably triggered this nuclear panic we are witnessing in this comic was t
 In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^note0] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: 
 
 [^note0]: Jenell M. Johnson, American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability (University of Michigan Press, 2014), pp. 89, 105. 
-
-
 {% include figure.html
   class="right"
   width="55%"
