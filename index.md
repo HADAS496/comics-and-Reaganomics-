@@ -142,11 +142,8 @@ What probably triggered this nuclear panic we are witnessing in this comic was t
 %}
 In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^note0]  
 
+Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the American people trusted with the ultimate weapons. 
 
-
-
-
-Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.
 
 [^note0]: Jenell M. Johnson, American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability (University of Michigan Press, 2014), pp. 89, 105. 
 
