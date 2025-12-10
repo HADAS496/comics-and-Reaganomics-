@@ -140,8 +140,8 @@ What probably triggered this nuclear panic we are witnessing in this comic was t
   caption="from *Batman* #258, 1974 p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
-In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^notey] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.
-[^notey]: Jenell M. Johnson, *American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability* (University of Michigan Press, 2014) pp. 89, 105. 
+In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers. [^note666] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.
+[^note666]: Jenell M. Johnson, *American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability* (University of Michigan Press, 2014) pp. 89, 105. 
 
 {% include figure.html
   class="right"
