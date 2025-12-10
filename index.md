@@ -219,7 +219,7 @@ When the image on the right gets to the top of the page, it will stop scrolling,
   ss-id="ss1"
 %}
 
-#### In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era.
+# In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era.
  
 {% include scrollybox/bg-ss-image.html
   image-path="scrollstory/images/for my project/1945.png"
