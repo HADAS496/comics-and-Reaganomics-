@@ -153,8 +153,6 @@ Although this Batman comic does not mention Soviet influence, it offers a two-fo
   caption="from *Batman* #258, 1974 p.7"
   image-path="scrollstory/images/for my project/1974 batman 258 p7b.png"
 %}
-
-
 ## Samuel Smith-Smythe, a former member of the Atomic Energy Commission. 
 Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the American people trusted with the ultimate weapons. 
 
