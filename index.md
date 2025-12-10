@@ -131,7 +131,9 @@ Indeed, in this specific comic book, there are several panels that include expla
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
-What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people, (Leffler and Westad, The Cambridge History of the Cold War, 135-138). 
+What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people.[^notew]
+
+[^notew]:Melvyn P. Leffler and Odd Arne Westad, *The Cambridge History of the Cold War* (Cambridge university press, 2010) pp. 135-138. 
 {% include figure.html
   class="left"
   width="45%"
@@ -147,7 +149,7 @@ In the popular imagination of this era, the concept of "villains" turned into a 
   caption="from *Batman* #258, 1974 p.7"
   image-path="scrollstory/images/for my project/1974 batman 258 p7b.png"
 %}
-Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the people we trusted with the ultimate weapons. 
+Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the American people trusted with the ultimate weapons. 
 
 Turns out that plot twists weren't just the realm of DC Comics—politicians were crafting their own high-stakes dramas too. Take Senator Joseph McCarthy, for instance. In the early years of the Cold War, he spearheaded a gripping "witch hunt" that could give Batman's rogues gallery a run for their money. His mission? To sniff out alleged communist subversives like a bloodhound on a scent trail, all while leaving behind a legacy that would haunt the nation long after the 1950s faded into history. “Communist subversives” ended up being a catch-all label that included a unique group: homosexuals. Back then, they were not just considered socially awkward but were actually classified as having a mental disease and as a threat to the national security.[^note3]
 
@@ -192,11 +194,11 @@ During that same time, concerns about rising youth crime led many people to blam
 
 In particular, Wertham refers to Batman and Robin relationship, targeting a specific panel from 1954 issue of Batman (on the left) and writes: “The Batman type of story may stimulate children to homosexual fantasies, of the nature of which they may be unconscious.” For Wertham, the sexual connotations of the comic were obvious: “Only someone ignorant of the fundamentals of psychiatry and of the psychopathology of sex can fail to realize a subtle atmosphere of homoeroticism which pervades the adventures of the mature ‘Batman’ and his young friend ‘Robin.’”[^note5]
 
-[^note5]: Fredric Wertham, *Seduction of the Innocent* (Rinehart: 1954, 189-190.
+[^note5]: Fredric Wertham, *Seduction of the Innocent* (Rinehart: 1954) pp. 189-190.
 
 This book played a significant role in the criticism of comics during that time, so much that in response to the raising accusations, and in a self-censoring move, the comic books industry established its own code of conduct, that was then updated every decade.[^note6]
 
-[^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers, 2012), p. 5, 70; Babic, *Comics as History*, p.7.  
+[^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers: 2012), p. 5, 70; Babic, *Comics as History*, p.7.  
 
 
 
