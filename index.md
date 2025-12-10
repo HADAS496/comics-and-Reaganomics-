@@ -234,3 +234,5 @@ include scrollybox/bg.html
 height="100vh"
 image-path="/scrollstory\images\for my project\1945.png"
 %}
+
+One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
