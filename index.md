@@ -239,9 +239,9 @@ One of the most shocking parts of Maisel’s article was his comparison of U.S. 
 
 
 {% include juxtapose.html
-image1="scrollstory\images\for my project\auschwitz.png"
+image1="scrollstory\images\for my project\auschwitz22.png"
 image2="scrollstory\images\for my project\arkham asylum auschwitz.png"
-caption="## It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
+caption="It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
 "
 %}
 
