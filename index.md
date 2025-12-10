@@ -190,7 +190,9 @@ In particular, Wertham refers to Batman and Robin relationship, targeting a spec
 
 [^note5]: Fredric Wertham, *Seduction of the Innocent* (Rinehart: 1954, 189-190.
 
-This book played a significant role in the criticism of comics during that time, so much that in response to the raising accusations, and in a self-censoring move, the comic books industry established its own code of conduct, that was then updated every decade. York, Chris, and Rafiel York. Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns. McFarland & Company, Inc., Publishers, 2012. p. 5, 70, babic p7. The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time. 
+This book played a significant role in the criticism of comics during that time, so much that in response to the raising accusations, and in a self-censoring move, the comic books industry established its own code of conduct, that was then updated every decade.[^note6]
+
+[^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers, 2012), p. 5, 70; Babic, *Comics as History*, p.7.  
 
 
 
