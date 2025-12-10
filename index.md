@@ -231,7 +231,7 @@ One of the most shocking parts of Maisel’s article was his comparison of U.S. 
 
 {%
 include scrollybox/bg.html
-height="50vh"
+height="100vh"
 image-path="/scrollstory/images/for my project/1945 2.jpg"
 %}
 
