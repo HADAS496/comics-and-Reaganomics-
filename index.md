@@ -119,7 +119,9 @@ So, what was really going on during this time that might have bled into the most
   image-path="scrollstory/images/for my project/duck.png"
 %}
 
-Layered within this debut issue of Arkham is the context of the Cold War, a period significantly shaped by the aftermath of World War II and the lasting impact of the atomic bombings of Hiroshima and Nagasaki. Following these events, the United States and the Soviet Union emerged as superpowers. However, rather than uniting the world, they fostered a fierce rivalry that defined the era. This conflict took on an ideological dimension, pitting American capitalism and free markets against Soviet communism. Although direct military confrontations between the two superpowers were rare and the conflict primarily manifested in technological advancements and competition for influence in countries around the globe, the constant threat of nuclear escalation cast a dark shadow over society and fueled widespread national paranoia throughout the duration of the Cold War. (Odd Arne Westad, *The Global Cold War: Third World Interventions and the Making of Our Times* (Cambridge University Press, 2005), 2-4).
+Layered within this debut issue of Arkham is the context of the Cold War, a period significantly shaped by the aftermath of World War II and the lasting impact of the atomic bombings of Hiroshima and Nagasaki. Following these events, the United States and the Soviet Union emerged as superpowers. However, rather than uniting the world, they fostered a fierce rivalry that defined the era. This conflict took on an ideological dimension, pitting American capitalism and free markets against Soviet communism. Although direct military confrontations between the two superpowers were rare and the conflict primarily manifested in technological advancements and competition for influence in countries around the globe, the constant threat of nuclear escalation cast a dark shadow over society and fueled widespread national paranoia throughout the duration of the Cold War.[^notex]
+
+[^notex]:Odd Arne Westad, *The Global Cold War: Third World Interventions and the Making of Our Times* (Cambridge University Press, 2005) pp. 2-4.
 
 Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima:
 {% include figure.html
@@ -129,7 +131,7 @@ Indeed, in this specific comic book, there are several panels that include expla
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
-What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people (Leffler and Westad, The Cambridge History of the Cold War, 135-138). 
+What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people, (Leffler and Westad, The Cambridge History of the Cold War, 135-138). 
 {% include figure.html
   class="left"
   width="45%"
@@ -137,7 +139,7 @@ What probably triggered this nuclear panic we are witnessing in this comic was t
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
 In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^note3] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: Samuel Smith-Smythe, a former member of the Atomic Energy Commission. Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.
-[^note3]: Jenell M. Johnson, *American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability* (University of Michigan Press, 2014) pp 89, 105. 
+[^note3]: Jenell M. Johnson, *American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability* (University of Michigan Press, 2014) pp. 89, 105. 
 
 {% include figure.html
   class="right"
