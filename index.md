@@ -206,9 +206,9 @@ The fact that Wertham chose to speak out against comics, leveraging his authorit
 
 {% 
 assign images = 
-"/scrollstories/scrollstory/images/for my project/1946 1.png,
-/scrollstories/scrollstory/images/for my project/1945.png,
-/scrollstories/scrollstory/images/for my project/1946 2" | split: ','
+"/scrollstory/images/for my project/1946 1.png,
+/scrollstory/images/for my project/1945.png,
+/scrollstory/images/for my project/1946 2" | split: ','
 %}
 
 {% 
