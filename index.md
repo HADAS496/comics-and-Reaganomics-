@@ -203,37 +203,6 @@ This book played a significant role in the criticism of comics during that time,
 
 The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
-
-{%raw%}{% 
-assign images = 
-"/scrollstories/mesa-vista-hall/images/mvh-construction.jpg,
-/scrollstories/mesa-vista-hall/images/mvh-room-cost.jpg,
-/scrollstories/mesa-vista-hall/images/mvh-tv-room.jpg" | split: ','
-%}
-
-{% 
-assign headers = 
-"A Photo Title,,
-No caption here" | split: ','
-%}
-
-{%
-assign captions = 
-"It's useful to have informative captions|
-This image has a caption, but no title|
-" | split: '|'
-%}
-
-{% include carousel.html
-width = "100%"
-class = "center"
-images = images
-headers = headers
-captions = captions 
-%}{%endraw%}
-```
-
-
 {% 
 assign images = 
 "/scrollstory/images/for my project/1946 1.png,
@@ -271,7 +240,7 @@ captions = captions
 <!-- this is an unclosed div that needs to be closed with ss-close-->
 {% include scrollybox/bg-ss.html
   ss-id="ss1"
-  pre-box-space="50"
+  pre-box-space="100"
 %}
 
 
@@ -281,7 +250,7 @@ captions = captions
   ss-id="ss1"
 %}
 
-# In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era.
+## In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era.
  
 {% include scrollybox/bg-ss-image.html
   image-path="scrollstory/images/for my project/1945.png"
