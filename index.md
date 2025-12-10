@@ -175,5 +175,14 @@ The iconic superhero figures such as Batman and Superman emerged in the United S
 %}
 During that same time, concerns about rising youth crime led many people to blame comic books for this problem. As a result, the superhero comic industry faced a decline and came under intense scrutiny. Frederick Wertham, a German-American psychiatrist, published a book in 1954 called Seduction of the Innocent. In it, he argued that comic books were promoting violent behavior and encouraging unhealthy sexual attitudes among young people. (Ann Annessa Babic, Comics as History, Comics as Literature: Roles of the Comic Book in Scholarship, Society, and Entertainment (Fairleigh Dickinson university press, 2014), 135-137. 
 
+{% include figure.html
+  class="left"
+  width="60%"
+  caption=""
+  image-path="scrollstory\images\for my project\batmanrobin.png"
+%}
+
+In particular, Wertham refers to Batman and Robin relationship, targeting a specific panel from 1954 issue of Batman (on the left) and writes: “The Batman type of story may stimulate children to homosexual fantasies, of the nature of which they may be unconscious.” For Wertham, the sexual connotations of the comic were obvious: “Only someone ignorant of the fundamentals of psychiatry and of the psychopathology of sex can fail to realize a subtle atmosphere of homoeroticism which pervades the adventures of the mature ‘Batman’ and his young friend ‘Robin.’” (Fredric Wertham, Seduction of the Innocent. Rinehart, 1954, 189-190)
+
 
 
