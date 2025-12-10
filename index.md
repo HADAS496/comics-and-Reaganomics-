@@ -207,7 +207,7 @@ The fact that Wertham chose to speak out against comics, leveraging his authorit
 include scrollybox/bg.html
 above-box-space="25vh"
 below-box-space="25vh"
-height="50vh"
+height="100vh"
 image-path="scrollstory/images/for my project/1946 2.png"  
 box-content=" 
 In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era." 
@@ -215,7 +215,7 @@ In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreakin
 
 {% include scrollybox/bg-sticky.html
  image-path="scrollstory/images/for my project/1945.png"  
-  below-box-space="80vh"
+  below-box-space="150vh"
   box-content="One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill." 
 %}
 
