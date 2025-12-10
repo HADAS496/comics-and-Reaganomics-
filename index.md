@@ -207,7 +207,7 @@ The fact that Wertham chose to speak out against comics, leveraging his authorit
 assign images = 
 "/scrollstory/images/for my project/1946 1.png,
 /scrollstory/images/for my project/1946 2.png,
-/scrollstories/forest/images/1945.png" | split: ','
+/scrollstory//images/for my project/1945.png" | split: ','
 %}
 
 {% 
@@ -223,6 +223,11 @@ This image has a caption, but no title|
 " | split: '|'
 %}
 
+{%
+assign captions = 
+"One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
+" | split: '|'
+%}
 
 {% include carousel.html
 width = "80%"
@@ -236,33 +241,12 @@ captions = captions
 <p style="clear:both"></p>
 
 
-
-<!-- this is an unclosed div that needs to be closed with ss-close-->
-{% include scrollybox/bg-ss.html
-  ss-id="ss1"
-  pre-box-space="100"
-%}
-
-
-{% include scrollybox/bg-ss-image.html
-  image-path="scrollstory/images/for my project/1946 2.png"
-  switch-id="switch1"
-  ss-id="ss1"
-%}
-
 ## In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era.
  
-{% include scrollybox/bg-ss-image.html
-  image-path="scrollstory/images/for my project/1945.png"
-  switch-id="switch2"
-  ss-id="ss1"
-%}
-
 One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
 
 
 
-{% include scrollybox/bg-ss-close.html %}
 
 
 
