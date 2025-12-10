@@ -3,6 +3,74 @@ title:
 layout: base
 ---
 
+# When you hear the word “Asylum,” what vivid images come to life in your mind? 
+
+
+{% include juxtapose.html
+image1="scrollstory\images\for my project\good asylum.jpg"
+image2="scrollstory\images\for my project\bad asylum.jpg"
+caption="move the border to see which one you have in mind!"
+%}
+
+Do you see a serene sanctuary, bathed in warm light, where those seeking safety can finally breathe, embraced by compassion and professional care? Or perhaps a haunting, gothic manor, its towering spires piercing the sky, guarded by iron gates that seem to whisper tales of sorrow— an institution that offers hope yet often falls tragically short in its promise to nurture the fragile souls within? 
+
+{% include figure.html
+  class="right"
+  width="95%"
+  caption="From Batman: the animated series (1992)"
+  image-path="scrollstory\images\for my project\arkham asylum lightening.jpg"
+%}  
+For me, the imagery is as striking as a thunderbolt illuminating the stormy skies over Arkham Asylum. Yes, you’ve guessed it—when I hear “Asylum,” I’m transported back to the 1990s, to the intoxicating world of the Batman animated series. 
+{% include figure.html
+  class="left"
+  width="55%"
+  caption="1995, me dressed as Batman for Purim"
+  image-path="scrollstory\images\for my project\me as little batman.png"
+%}
+
+
+
+
+
+As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
+
+{% 
+include scrollybox/bg.html
+above-box-space="25vh"
+below-box-space="25vh"
+height="100vh"
+image-path="scrollstory/images/for my project/arkham video game.jpg"  
+box-content=" 
+In the late 2000s, I plunged deeper into this dark universe, playing the Arkham trilogy video games, where Arkham Asylum was in the geographical focus of the game." 
+%}
+
+
+The very mention of Arkham Asylum, for me, conjured a haunting comparison; those gates, emblazoned with the name “Arkham Asylum,” echo the chilling inscription “arbeit macht frei” from Auschwitz—a reminder of the nature of such places. Their promise of liberation is but a deadly joke.  
+
+{% include figure.html
+class="left"
+width="44%"
+caption="Arkham Asylum as portrayed in Batman's video games"
+image-path="scrollstory/images/for my project/arkham asylum auschwitz.png"
+%}
+
+{% include figure.html
+class="left"
+width="52%"
+caption="The main gate to Auschwitz I, the original camp, bearing the infamous wrought-iron sign “Arbeit macht frei” (“works sets you free”)"
+image-path="scrollstory/images/for my project/auschwitz.png"
+%}
+
+
+{% include scrollybox/bg-sticky.html
+ image-path="scrollstory/images/for my project/arkham video game poster.png"  
+  below-box-space="80vh"
+  box-content="
+  Thus, when I learned that the very word of Asylum as, rather than hopeless prison that masks itself as psychiatric guard, meant to convey a place of hope and shelter, I was confused. Arkham Asylum, with its haunting corridors, is not just a backdrop for the caped crusader's adventures; I realized it embodies a profound commentary on mental health, societal fears, and the stigmas that have persisted throughout American history. 
+  
+  This surprising duality lies at the heart of my exploration, beckoning me to delve deeper into its layers and intricacies. How does Arkham reflect the evolving understanding of mental illness? What cultural currents have molded it into something more than a mere institution for the mentally ill?  This intertwining of history, mental health, and popular culture paints a rich picture, one that I forever want to explore and reflect on how the characters we idolize—and those we vilify shaped by the very societal fears we struggle to confront. Join me as I take this journey to reveal not just the nature of the asylum, but also the dark corners of our collective psyche."  
+%}
+
 # From “Hospital for the Criminally Insane” to “Plot Device” – A Cultural History of Arkham Asylum
 {% include figure.html
   class="left"
@@ -41,5 +109,16 @@ As with every Batman comic from that time, the story ends with the successful de
   width="100%"
   image-path="scrollstory/images/for my project/1974 batman 258 finale.png"
 %}
+
+So, what was really going on during this time that might have bled into the most escapist form of reading, found in Batman’s comic book adventures?
+
+{% include figure.html
+  class="right"
+  width="60%"
+  caption="Don’t believe me? Click the picture to watch this cute 1951 national defense film aimed at educating civilians on how to take cover during a scenario of nuclear bombing or go to !https://www.youtube.com/watch?v=LWH4tWkZpPU "
+  image-path="scrollstory/images/for my project/duck.png"
+%}
+
+Layered within this debut issue of Arkham is the context of the Cold War, a period significantly shaped by the aftermath of World War II and the lasting impact of the atomic bombings of Hiroshima and Nagasaki. Following these events, the United States and the Soviet Union emerged as superpowers. However, rather than uniting the world, they fostered a fierce rivalry that defined the era. This conflict took on an ideological dimension, pitting American capitalism and free markets against Soviet communism. Although direct military confrontations between the two superpowers were rare and the conflict primarily manifested in technological advancements and competition for influence in countries around the globe, the constant threat of nuclear escalation cast a dark shadow over society and fueled widespread national paranoia throughout the duration of the Cold War. (Odd Arne Westad, *The Global Cold War: Third World Interventions and the Making of Our Times* (Cambridge University Press, 2005), 2-4).
 
 
