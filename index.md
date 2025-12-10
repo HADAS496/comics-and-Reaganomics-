@@ -209,7 +209,7 @@ When the image on the right gets to the top of the page, it will stop scrolling,
 <!-- this is an unclosed div that needs to be closed with ss-close-->
 {% include scrollybox/bg-ss.html
   ss-id="ss1"
-  pre-box-space="0"
+  pre-box-space="50"
 %}
 
 
