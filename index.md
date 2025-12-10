@@ -202,3 +202,30 @@ This book played a significant role in the criticism of comics during that time,
 [^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers: 2012), p. 5, 70; Babic, *Comics as History*, p.7. 
 
 The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
+
+
+In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
+
+{% include figure.html
+  class="right"
+  width="25%"
+  caption=""
+  image-path="scrollstory\images\for my project\1946 1.png"
+%}
+
+{% include figure.html
+  class="right"
+  width="25%"
+  caption=""
+  image-path="scrollstory\images\for my project\1946 2.png"
+%}
+
+One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
+
+{% include figure.html
+  class="right"
+  width="60%"
+  caption=""
+  image-path="scrollstory\images\for my project\1945.png"
+%}
+
