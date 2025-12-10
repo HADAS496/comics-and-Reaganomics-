@@ -143,6 +143,11 @@ In the popular imagination of this era, the concept of "villains" turned into a 
   caption="from *Batman* #258, 1974 p.7"
   image-path="scrollstory/images/for my project/1974 batman 258 p7b.png"
 %}
+Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the people we trusted with the ultimate weapons. 
+
+Turns out that plot twists weren't just the realm of DC Comics—politicians were crafting their own high-stakes dramas too. Take Senator Joseph McCarthy, for instance. In the early years of the Cold War, he spearheaded a gripping "witch hunt" that could give Batman's rogues gallery a run for their money. His mission? To sniff out alleged communist subversives like a bloodhound on a scent trail, all while leaving behind a legacy that would haunt the nation long after the 1950s faded into history. “Communist subversives” ended up being a catch-all label that included a unique group: homosexuals. Back then, they were not just considered socially awkward but were actually classified as having a mental disease and as a threat to the national security. (Robert L. Ivie, “Cold War Motives and the Rhetorical Metaphor: A Framework of Criticism,” in Cold War Rhetoric: Strategy, Metaphor, and Ideology, ed. Martin J. Medhurst et al. (East Lansing: Michigan State University Press, 1997), 75). 
+This climate bled also into popular culture, and, in our case, superhero comics. 
+
 
 
 
