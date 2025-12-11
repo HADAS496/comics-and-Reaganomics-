@@ -246,7 +246,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 
 
 {% include figure.html
-  class="left"
+  class="right"
   width="30%"
   caption="The poster for the 1948 *The Snake Pit* film"
   image-path="scrollstory/images/for my project/images.jpeg"
