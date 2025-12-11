@@ -219,16 +219,6 @@ The fact that Wertham chose to speak out against comics, leveraging his authorit
 %}
 In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 
-{% include figure.html
-  class="center"
-  width="100%"
-  caption=""
-  image-path="scrollstory\images\for my project\1945 2.jpg"
-%}
-
-One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
-
-
 {%
 include scrollybox/bg.html
 height="100vh"
@@ -241,14 +231,26 @@ One of the most shocking parts of Maisel’s article was his comparison of U.S. 
 {% include juxtapose.html
 image1="scrollstory\images\for my project\auschwitz22.png"
 image2="scrollstory\images\for my project\arkham asylum auschwitz.png"
-caption="It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
+caption="
 "
 %}
 
 It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
 
-Maisel was not alone. In 1948 the film snake pit came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie shared with the viewers all kinds of experimental somatic treatments—insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228). The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
+{% include figure.html
+  class="left"
+  width="50%"
+  caption="The poster for the 1948 film "The Snake Pit""
+  image-path="scrollstory\images\for my project\the snake pit.jpg"
+%}
 
+Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie shared with the viewers all kinds of experimental somatic treatments—insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228). The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
 
+{% include figure.html
+  class="right"
+  width="30%"
+  caption="1955 Advertisement for Thorazine as replacing electroshock therapy.  in *Mental Hospitals*, Vol. 6, No. 12."
+  image-path="scrollstory/images/for my project/thorazshock (1).gif"
+%}
 
 1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings (Mayes and Horwitz, “DSM-III” 254). 
