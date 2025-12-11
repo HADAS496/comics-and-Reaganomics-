@@ -237,8 +237,8 @@ caption="
 
 {% include figure.html
   class="left"
-  width="50%"
-  caption="The poster for the 1948 film "The Snake Pit""
+  width="30%"
+  caption="The poster for the 1948 film "The Snake Pit." "
   image-path="scrollstory\images\for my project\the snake pit.jpg"
 %}
 
