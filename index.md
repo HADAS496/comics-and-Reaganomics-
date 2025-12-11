@@ -281,8 +281,8 @@ It’s hard not to look at the “Laughing Eel,” his escape from hospital for 
 %}
 
 {% include figure.html
-  class="left"
-  width="20%"
+  class="right"
+  width="30%"
   caption=""
   image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
 %}
