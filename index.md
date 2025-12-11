@@ -32,7 +32,7 @@ For me, the imagery is as striking as a thunderbolt illuminating the stormy skie
 
 
 
-As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
+## As a little girl, I donned a homemade cape, stitched together by my indomitable grandmother, a Holocaust survivor whose resilience pulsed through every thread. Each Purim, I transformed into Batman, embodying the hero who haunted my dreams.
 
 {% 
 include scrollybox/bg.html
