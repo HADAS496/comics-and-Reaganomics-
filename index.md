@@ -260,7 +260,17 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 %}
 
 1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings (Mayes and Horwitz, “DSM-III” 254).
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 In addition, the case of the “laughing eel” came to haunt the headlines.{% include figure.html
   class="center"
   width="100%"
@@ -282,7 +292,7 @@ It’s hard not to look at the “Laughing Eel,” his escape from hospital for 
   class="left"
   width="40%"
   caption=""
-  image-path="scrollstory/images/for my project/The_Joker_8.webp"
+  image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
 %}
 So after Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies.  Joker, in fact, completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
 
