@@ -225,8 +225,7 @@ height="100vh"
 image-path="/scrollstory/images/for my project/1945 2.jpg"
 %}
 
-One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill.
-
+One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill. It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
 
 {% include juxtapose.html
 image1="scrollstory\images\for my project\auschwitz22.png"
@@ -235,7 +234,6 @@ caption="
 "
 %}
 
-It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
 
 {% include figure.html
   class="left"
