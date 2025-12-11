@@ -269,14 +269,22 @@ In addition, the case of the “laughing eel” came to haunt the headlines.{% i
 %}
  Louis Henry Ross has committed series of robberies during the year of 1920, and his victims often reported of his hysterical laughter while doing so, thus leading to his unique nickname by the press. Upon being caught in 1921, he was to receive a six to ten year prison term. However, following a mental breakdown during his first two years in prison, the judge declared him insane and put him in Farview, a rather new state hospital in the American landscape at Pennsylvania which opened its doors in 1912 and was dedicated for the criminally insane. Ross had lived in this institution, never receiving any therapy of any kind.  Even when he did improved on his own and seemed, by the attendants as “pleasant, coherent and relevant” and “normal in every respect,” his release was never recommended and even his pleas for examination or parole hearings were denied.  In 1954 he tried to escape and manage to get to attorney office and arranged for a lawsuit. The judge ordered his immediate release, saying that Farview “would necessarily condemn a patient for life with no hope of returning to society” (“Comth. ex rel. Ross v. Dye,” 488). Upon his release in December 9th, headlines exploded, announcing the release of perfectly sane person from unjust state mental facility after being trapped there for over 20 years.  
 
+It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and officially being discharged, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: the Joker. Yes, it is time we talked about him a little. 
 
-{% include figure.html class="left" width="48%" image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp" caption="Here's an image on the left."%}
+{% include figure.html
+  class="center"
+  width="100%"
+  caption=""
+  image-path="scrollstory/images/for my project/The_Joker_8.webp"
+%}
 
-{% include figure.html class="left" width="48%" image-path="scrollstory/images/for my project/The_Joker_8.webp" caption=""%}
-
-<p style="clear:both"></p>
-
-It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and officially being discharged, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: the Joker. Yes, it is time we talked about him a little. So after Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies.  Joker, in fact, completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
+{% include figure.html
+  class="left"
+  width="40%"
+  caption=""
+  image-path="scrollstory/images/for my project/The_Joker_8.webp"
+%}
+So after Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies.  Joker, in fact, completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
 
 
 During that same time federal legislation started to take root. The 1963 Community Mental Health Act funded community-based centers offering inpatient/outpatient care, partial hospitalization, emergency services, and education. Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals (Parsons, 2018, pp. 70, 74, 116). The 1966 Lake v. Cameron ruling established the “least restrictive setting” principle, requiring discharge to less restrictive environments when possible. Combined with stricter admission criteria, these changes made hospitalization much harder to access. As a result, many individuals with severe mental illness were discharged without adequate community support, leading to widespread homelessness, arrests, and premature deaths. Psychiatrist Darold Treffert’s 1973 phrase “dying with one’s rights on” criticized laws that prioritized civil liberties over safety and treatment needs. This trend culminated in the 1975 Supreme Court case O’Connor v. Donaldson, which ruled that nondangerous individuals capable of surviving safely outside (alone or with help) could not be confined against their will (Daniel, 2013, p. 887).
