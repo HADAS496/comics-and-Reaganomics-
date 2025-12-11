@@ -270,7 +270,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 %}
 
 
-It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and officially being discharged, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: 
+### It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and officially being discharged, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: 
 # The Joker. 
 {% include figure.html
   class="left"
