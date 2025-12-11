@@ -261,7 +261,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 
 ### 1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings (Mayes and Horwitz, “DSM-III 254).
 
-#In addition, the case of the “laughing eel” came to haunt the headlines. 
+# In addition, the case of the “laughing eel” came to haunt the headlines. 
 {% include scrollybox/bg-sticky.html
  image-path="scrollstory/images/for my project/laughing eel2.png"  
   above-box-space="100vh"
