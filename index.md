@@ -239,7 +239,7 @@ caption="
   class="left"
   width="30%"
   caption="The poster for the 1948 film "The Snake Pit." "
-  image-path="scrollstory\images\for my project\the snake pit.jpg"
+  image-path="scrollstory/images/for my project/the snake pit.jpg"
 %}
 
 Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie shared with the viewers all kinds of experimental somatic treatments—insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228). The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
