@@ -246,3 +246,9 @@ caption="It seems clear now why the thoughts of Arkham Asylum and Auschwitz are 
 %}
 
 It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions.
+
+Maisel was not alone. In 1948 the film snake pit came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie shared with the viewers all kinds of experimental somatic treatments—insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228). The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
+
+
+
+1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings (Mayes and Horwitz, “DSM-III” 254). 
