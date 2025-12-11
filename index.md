@@ -279,14 +279,13 @@ It’s hard not to look at the “Laughing Eel,” his escape from hospital for 
   caption=""
   image-path="scrollstory/images/for my project/joker-oh-goody.gif"
 %}
+So after Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies.  Joker, in fact, completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
 
 {% include figure.html
   class="left"
-  width="40%"
+  width="30%"
   caption=""
   image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
 %}
-So after Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies.  Joker, in fact, completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
-
 
 During that same time federal legislation started to take root. The 1963 Community Mental Health Act funded community-based centers offering inpatient/outpatient care, partial hospitalization, emergency services, and education. Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals (Parsons, 2018, pp. 70, 74, 116). The 1966 Lake v. Cameron ruling established the “least restrictive setting” principle, requiring discharge to less restrictive environments when possible. Combined with stricter admission criteria, these changes made hospitalization much harder to access. As a result, many individuals with severe mental illness were discharged without adequate community support, leading to widespread homelessness, arrests, and premature deaths. Psychiatrist Darold Treffert’s 1973 phrase “dying with one’s rights on” criticized laws that prioritized civil liberties over safety and treatment needs. This trend culminated in the 1975 Supreme Court case O’Connor v. Donaldson, which ruled that nondangerous individuals capable of surviving safely outside (alone or with help) could not be confined against their will (Daniel, 2013, p. 887).
