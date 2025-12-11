@@ -242,15 +242,15 @@ caption="
   image-path="scrollstory/images/for my project/the snake pit.jpg"
 %}
 
-
-Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
-The movie showed the viewers all kinds of experimental somatic treatments: insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228).
 {% include figure.html
   class="right"
-  width="40%"
+  width="30%"
   caption="a scene from the film where the main is character getting ECT involuntarily"
   image-path="scrollstory/images/for my project/images.jpeg"
 %} 
+
+Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie showed the viewers all kinds of experimental somatic treatments: insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228).
+ The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
 
 1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings (Mayes and Horwitz, “DSM-III” 254). {% include figure.html
   class="right"
