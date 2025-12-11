@@ -238,17 +238,15 @@ caption="
 {% include figure.html
   class="left"
   width="30%"
-  caption="The poster for the 1948 film "The Snake Pit." "
+  caption="The poster for the 1948 *The Snake Pit* film"
   image-path="scrollstory/images/for my project/the snake pit.jpg"
 %}
 
 Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie shared with the viewers all kinds of experimental somatic treatments—insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228). The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
 
-{% include figure.html
-  class="right"
-  width="30%"
-  caption="1955 Advertisement for Thorazine as replacing electroshock therapy.  in *Mental Hospitals*, Vol. 6, No. 12."
-  image-path="scrollstory/images/for my project/thorazshock (1).gif"
-%}
 
 1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings (Mayes and Horwitz, “DSM-III” 254). 
+
+
+
+In addition, the case of the “laughing eel” came to haunt the headlines. Louis Henry Ross has committed series of robberies during the year of 1920, and his victims often reported of his hysterical laughter while doing so, thus leading to his unique nickname by the press. Upon being caught in 1921, he was to receive a six to ten year prison term. However, following a mental breakdown during his first two years in prison, the judge declared him insane and put him in Farview, a rather new state hospital in the American landscape at Pennsylvania which opened its doors in 1912 and was dedicated for the criminally insane. Ross had lived in this institution, never receiving any therapy of any kind.  Even when he did improved on his own and seemed, by the attendants as “pleasant, coherent and relevant” and “normal in every respect,” his release was never recommended and even his pleas for examination or parole hearings were denied.  In 1954 he tried to escape and manage to get to attorney office and arranged for a lawsuit. The judge ordered his immediate release, saying that Farview “would necessarily condemn a patient for life with no hope of returning to society” (“Comth. ex rel. Ross v. Dye,” 488). Upon his release in December 9th, headlines exploded, announcing the release of perfectly sane person from unjust state mental facility after being trapped there for over 20 years.  
