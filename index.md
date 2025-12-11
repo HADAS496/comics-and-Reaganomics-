@@ -274,10 +274,10 @@ It’s hard not to look at the “Laughing Eel,” his escape from hospital for 
 # The Joker. Yes, it is time we talked about him a little. 
 
 {% include figure.html
-  class="right"
+  class="center"
   width="50%"
   caption=""
-  image-path="scrollstory/images/for my project/joker-oh-goody.gif"
+  image-path="scrollstory/images/for my project/jokertv.jpg"
 %}
 
 {% include figure.html
