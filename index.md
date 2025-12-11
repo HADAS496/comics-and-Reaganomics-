@@ -271,13 +271,7 @@ In addition, the case of the “laughing eel” came to haunt the headlines. Lou
 "
 %}
 
-{% include figure.html
-  class="center"
-  width="100%"
-  caption=""
-  image-path="scrollstory/images/for my project/laughing eel.webp"
-%}
- Louis Henry Ross has committed series of robberies during the year of 1920, and his victims often reported of his hysterical laughter while doing so, thus leading to his unique nickname by the press. Upon being caught in 1921, he was to receive a six to ten year prison term. However, following a mental breakdown during his first two years in prison, the judge declared him insane and put him in Farview, a rather new state hospital in the American landscape at Pennsylvania which opened its doors in 1912 and was dedicated for the criminally insane. Ross had lived in this institution, never receiving any therapy of any kind.  Even when he did improved on his own and seemed, by the attendants as “pleasant, coherent and relevant” and “normal in every respect,” his release was never recommended and even his pleas for examination or parole hearings were denied.  In 1954 he tried to escape and manage to get to attorney office and arranged for a lawsuit. The judge ordered his immediate release, saying that Farview “would necessarily condemn a patient for life with no hope of returning to society” (“Comth. ex rel. Ross v. Dye,” 488). Upon his release in December 9th, headlines exploded, announcing the release of perfectly sane person from unjust state mental facility after being trapped there for over 20 years.  
+
 
 It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and officially being discharged, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: the Joker. Yes, it is time we talked about him a little. 
 
@@ -285,7 +279,7 @@ It’s hard not to look at the “Laughing Eel,” his escape from hospital for 
   class="center"
   width="100%"
   caption=""
-  image-path="scrollstory/images/for my project/The_Joker_8.webp"
+  image-path="scrollstory/images/for my project/joker-oh-goody.gif"
 %}
 
 {% include figure.html
