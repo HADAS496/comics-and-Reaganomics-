@@ -107,6 +107,7 @@ As with every Batman comic from that time, the story ends with the successful de
 {% include figure.html
   class="center"
   width="100%"
+  caption="*Batman* #258, 1974 pp. 19-20.
   image-path="scrollstory/images/for my project/1974 batman 258 finale.png"
 %}
 
