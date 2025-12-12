@@ -261,7 +261,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 
 ### 1954 was a big one. Not only Wertham published his book in  which he condemns comic genre to hell, but also the introduction of chlorpromazine (Thorazine) which was the first effective antipsychotic, prompted the American Psychiatric Association and other organizations to advocate for federal legislation that would facilitate higher rates of discharge from custodial settings.[^note152]
 
-[^note152]:Mayes and Horwitz, “DSM-III," p. 254
+[^note152]:Rick Mayes and Allan V. Horwitz, “DSM-III and the Revolution in the Classification of Mental Illness,” *Journal of the History of the Behavioral Sciences* 41, no. 3 (2005): p. 254.
 
 # In addition, the case of the “laughing eel” came to haunt the headlines. 
 {% include scrollybox/bg-sticky.html
@@ -275,7 +275,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 %}
 
 
-### It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and officially being discharged, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: 
+### It’s hard not to look at the “Laughing Eel,” his escape from hospital for the criminally insane and his official discharge, without thinking about a very particular character from the *Batman* comics that is very much the embodiment of criminal insanity, mad laughter and having a knack for succesful escape: 
 # The Joker. 
 {% include figure.html
   class="left"
