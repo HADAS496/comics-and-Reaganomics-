@@ -341,7 +341,7 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
   image-path="scrollstory/images/for my project/1974 BATMAN 258 P8C.png"
 %}
 
- Fast forward a few months to 
+ Fast forward a few months to -
  ## May 1975, 
 
 {% include jumbotron.html
@@ -353,3 +353,10 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
 DC Comics made a very bold move. After alost two decades when Joker almost disappeared and was more of a goofy harmless prankster  rather than a serious criminal and threat to Batman-  the comic company decided on launching a dedicated series all for him. 
 
 The series debuted right on the heels of General Harris's dramatic escape with Two-Face, leaving the Joker behind in a fit of fury and revenge. This pivotal moment marked not only a significant turning point in the Joker's storyline but also an intriguing connection to Arkham Asylum. While Batman #258 initially associated Two-Face with Arkham Hospital, the first issue of the Joker series boldly announced, “You’ve just entered the Arkham Asylum for the Criminally Insane - in the midst of an escape! Therefore… You’re in on the beginning of one of the strangest episodes in the annals of crime! Look… Listen…” (Joker #1, 1975,1).  
+
+{% include figure.html
+  class="left"
+  width="40%"
+  caption="from *Joker* #1, May 1975"
+  image-path="scrollstory/images/for my project/1 JOKER 1975.png"
+%}
