@@ -370,7 +370,7 @@ The series debuted right on the heels of General Harris's dramatic escape with T
   class="left"
   width="40%"
   caption="from *Joker* #2, July 1975, p.2"
-  image-path="scrollstory/images/for my project/1975 joker 2 p2.png"
+  image-path="scrollstory/images/for my project/HOSPITALASYLUM.png"
 %}
 
 DC Comics kept using Arkham as hospital in some comics and asylum at others, sometime in the very same comic. In Joker #2, for example, the captions announced “Arkham asylum for the criminally insane” but the signage in the panel’s drawing says “Arkham Hospital.” After yet again another escape of Joker, the superintendent of the Asylum shouts at the staff: “How could you be fooled by that? This is the FIFTH TIME you’ve let THE JOKER escape! Well, there won’t be a sixth!” [^note369]
