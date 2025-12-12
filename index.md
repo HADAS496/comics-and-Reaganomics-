@@ -194,11 +194,10 @@ The iconic superhero figures such as Batman and Superman emerged in the United S
   image-path="scrollstory\images\for my project\batmanrobin.png"
 %}
 
-### In particular, Wertham refers to Batman and Robin relationship, targeting a specific panel from 1954 issue of Batman (on the left) and writes: “The Batman type of story may stimulate children to homosexual fantasies, of the nature of which they may be unconscious.” For Wertham, the sexual connotations of the comic were obvious: “Only someone ignorant of the fundamentals of psychiatry and of the psychopathology of sex can fail to realize a subtle atmosphere of homoeroticism which pervades the adventures of the mature ‘Batman’ and his young friend ‘Robin.’”[^note5]
+### In particular, Wertham refers to Batman and Robin relationship, targeting a specific panel from 1954 issue of Batman (on the left) and writes: “The Batman type of story may stimulate children to homosexual fantasies, of the nature of which they may be unconscious.” For Wertham, the sexual connotations of the comic were obvious: “Only someone ignorant of the fundamentals of psychiatry and of the psychopathology of sex can fail to realize a subtle atmosphere of homoeroticism which pervades the adventures of the mature ‘Batman’ and his young friend ‘Robin.’”[^note5] This book played a significant role in the criticism of comics during that time, so much that in response to the raising accusations, and in a self-censoring move, the comic books industry established its own code of conduct, that was then updated every decade.[^note6]
+
 
 [^note5]: Fredric Wertham, *Seduction of the Innocent* (Rinehart: 1954) pp. 189-190.
-
-This book played a significant role in the criticism of comics during that time, so much that in response to the raising accusations, and in a self-censoring move, the comic books industry established its own code of conduct, that was then updated every decade.[^note6]
 
 [^note6]: The 1948 code mirrored the sentiments of McCarthyism and nascent Cold War ideologies, while the 1954 version followed suit and started officially what is known as "The Silver Age of Comics,” in which DC avoided political topics and violence.  The code was updated every decade to reflect and respond to changes in society, and the one from the 1970s specifically took notice of the civil rights initiatives of the time, see: Chris York and Rafiel York, *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns* (McFarland & Company, Inc., Publishers: 2012), p. 5, 70; Babic, *Comics as History*, p.7. 
 
