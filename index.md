@@ -331,7 +331,7 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
 
  So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
  
- # This brings us full circle to where we started: the  Batman’s iconic 1974 issue whhich introduced Arkham Hospital for the criminally insane. In particular, this is also the moment when  General Harris breaks free Two-Face and they both leave behind a very angry Joker.
+## This brings us full circle to where we started: the  Batman’s iconic 1974 issue whhich introduced Arkham Hospital for the criminally insane. In particular, this is also the moment when  General Harris breaks free Two-Face and they both leave behind a very angry Joker.
 
 
 {% include figure.html
@@ -341,7 +341,7 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
   image-path="scrollstory/images/for my project/1974 BATMAN 258 P8C.png"
 %}
 
- Fast forward a few months to...
+Fast forward a few months to...
  
  # May 1975,  
 
@@ -363,11 +363,23 @@ DC Comics made a very bold move. After alost two decades when Joker almost disap
   image-path="scrollstory/images/for my project/1 JOKER 1975.png"
 %}
 
-The series debuted right on the heels of General Harris's dramatic escape with Two-Face, leaving the Joker behind in a fit of fury and revenge. This pivotal moment marked not only a significant turning point in the Joker's storyline but also an intriguing connection to Arkham Asylum. While Batman #258 initially associated Two-Face with Arkham Hospital, the first issue of the Joker series boldly announced, “You’ve just entered the Arkham Asylum for the Criminally Insane - in the midst of an escape! Therefore… You’re in on the beginning of one of the strangest episodes in the annals of crime! Look… Listen…” (Joker #1, 1975,1).  
+The series debuted right on the heels of General Harris's dramatic escape with Two-Face, leaving the Joker behind in a fit of fury and revenge. This pivotal moment marked not only a significant turning point in the Joker's storyline but also an intriguing connection to Arkham Asylum. While Batman #258 initially associated Two-Face with Arkham Hospital, the first issue of the Joker series boldly announced, “You’ve just entered the Arkham Asylum for the Criminally Insane - in the midst of an escape! Therefore… You’re in on the beginning of one of the strangest episodes in the annals of crime! Look… Listen…”[^note367]
+
+[^note367]: Denny O'neil, "The Joker's Double Jeopardy!" *Joker* #1, May 1975, p.1.  
+
+{% include figure.html
+  class="right"
+  width="40%"
+  caption="from *Joker* #2, July 1975, p.2"
+  image-path="scrollstory/images/for my project/1975 joker 2 p2.png"
+%}
 
 DC Comics kept using Arkham as hospital in some comics and asylum at others, sometime in the very same comic. In Joker #2, for example, the captions announced “Arkham asylum for the criminally insane” but the signage in the panel’s drawing says “Arkham Hospital.” After yet again another escape of Joker, the superintendent of the Asylum shouts at the staff: “How could you be fooled by that? This is the FIFTH TIME you’ve let THE JOKER escape! Well, there won’t be a sixth!” [^note369]
 
-[^note369]: Danny Onneil, "The Sad Saga of Willy the Weeper!" *Joker* #2 (July 1975): p.2. 
+[^note369]: Danny Onneil, "The Sad Saga of Willy the Weeper!" *Joker* #2 July 1975, p.2. 
+
+
+Indeed, time after time Joker is either breaking free by himself (as in Joker#1) 
 
 {% include figure.html
   class="right"
