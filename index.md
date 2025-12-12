@@ -249,7 +249,9 @@ caption="
   image-path="scrollstory/images/for my project/images.jpeg"
 %} 
 
-Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie showed the viewers all kinds of experimental somatic treatments: insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked (Grob, 1994, p. 13; Osborn, 2009, p. 228).
+Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out and told the real-life story of Mary Jane Ward as an institutionalized patient from 1931 to 1937. The movie showed the viewers all kinds of experimental somatic treatments: insulin coma therapy, Metrazol shock, electroconvulsive therapy (ECT), hydrotherapy—and how it was applied on mass scale without the patients’ informed consent and sometimes with little understanding of why (or whether) they worked [^note252] 
+
+[^note252]:Gerald N. Grob, *The Mad Among Us* (The Free Press, 1994) p. 13; Lawrence A. Osborn, “From Beauty to Despair: The Rise and Fall of the American State Mental Hospital,” *Psychiatric Quarterly* 80, no. 4 (2009): p. 228.
  The film garnered critical acclaim and increased public awareness and outcry against state mental hospitals and asylums. Civil rights movements started emerging, fighting to ensure that individuals with severe mental illness had the right to be treated in the least restrictive environments available. 
 
  {% include figure.html
@@ -287,7 +289,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 # Yes, it is time we talked about him a little.
 
 
-So after Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies.  Joker, in fact, completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
+After Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies. Joker, in fact,  almost completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.  
 
 {% include figure.html
   class="center"
