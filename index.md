@@ -332,7 +332,7 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
 
  So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
  
-## This brings us full circle to where we started: the  Batman’s iconic 1974 issue whhich introduced Arkham Hospital for the criminally insane. 
+## This brings us full circle to where we started: the first Batman’s iconic 1974 issue that introduced Arkham Hospital for the criminally insane. 
 In particular, this is also the moment when  General Harris breaks free Two-Face and they both leave behind a very angry Joker.
 
 
