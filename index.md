@@ -168,7 +168,7 @@ This climate bled also into popular culture, and, in our case, superhero comics.
 {% include figure.html
   class="left"
   width="30%"
-  caption=""
+  caption="J.Siegel, J. Shuster & J. Sikela, *Superman* #17 JulY 1942"
   image-path="scrollstory/images/for my project/s-l1200.jpg"
 %}
 
