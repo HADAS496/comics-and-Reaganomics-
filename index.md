@@ -369,6 +369,7 @@ The series debuted right on the heels of General Harris's dramatic escape with T
 {% include figure.html
   class="left"
   width="40%"
+  height="30vh"
   caption="from *Joker* #2, July 1975, p.2"
   image-path="scrollstory/images/for my project/HOSPITALASYLUM.png"
 %}
