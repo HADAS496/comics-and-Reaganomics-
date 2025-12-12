@@ -162,14 +162,14 @@ This climate bled also into popular culture, and, in our case, superhero comics.
 {% include figure.html
   class="right"
   width="22%"
-  caption="*Batman* #18, August-September 1943."
+  caption="*Batman*#18, August-September 1943."
   image-path="scrollstory\images\for my project\batman hitler.jpg"
 %}
 
 {% include figure.html
   class="left"
   width="22%"
-  caption="*Superman* #17 JulY-Augost 1942."
+  caption="*Superman* #17 July-Augost 1942."
   image-path="scrollstory/images/for my project/s-l1200.jpg"
 %}
 
