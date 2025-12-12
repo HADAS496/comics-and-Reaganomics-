@@ -183,7 +183,7 @@ The iconic superhero figures such as Batman and Superman emerged in the United S
   caption=""
   image-path="scrollstory\images\for my project\yw18xu018ju81.jpg"
 %}
-### During that same time, concerns about rising youth crime led many people to blame comic books for this problem. As a result, the superhero comic industry faced a decline and came under intense scrutiny. Frederick Wertham, a German-American psychiatrist, published a book in 1954 called Seduction of the Innocent. In it, he argued that comic books were promoting violent behavior and encouraging unhealthy sexual attitudes among young people. [^note4]
+During that same time, concerns about rising youth crime led many people to blame comic books for this problem. As a result, the superhero comic industry faced a decline and came under intense scrutiny. Frederick Wertham, a German-American psychiatrist, published a book in 1954 called Seduction of the Innocent. In it, he argued that comic books were promoting violent behavior and encouraging unhealthy sexual attitudes among young people. [^note4]
 
 [^note4]: Ann Annessa Babic, *Comics as History, Comics as Literature: Roles of the Comic Book in Scholarship, Society, and Entertainment*, Fairleigh Dickinson University Press, 2014, 135-137. 
 
