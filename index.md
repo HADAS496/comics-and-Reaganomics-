@@ -348,7 +348,7 @@ Fast forward a few months to...
 
 {%
 include scrollybox/bg.html
-height="vh"
+height="40vh"
 image-path="/scrollstory/images/for my project/joker1975 g.png"
 %}
 
@@ -403,6 +403,8 @@ It took until 1980 for Arkham to officially become Arkham Asylum, rather than be
 This stagnant portrayal begs the question: 
 
 ### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? What do they have to say for their defense? Are these infamous villains genuinely "criminally insane," or could they be more accurately classified under the intriguing term “super-sane,” as comic writer Grant Morrison suggested in his 1989 comic dedicated entirely to Arkham Asylum? 
+
+
 
 
 
