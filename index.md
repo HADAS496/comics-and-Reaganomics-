@@ -329,5 +329,18 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
  [^note326]: Yohanna Daniel, “Deinstitutionalization of People with Mental Illness: Causes and Consequences,” *Virtual Mentor American Medical Association Journal of Ethics* 15, no. 10 (2013): p. 887.
 
 
- So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. This brings us full circle to where we started: the  Batman’s iconic 1974 issue whhich introduced Arkham Hospital for the criminally insane. By now  we hopefully acquired some necessary historical background that would allow us to better understand the choice of DC Comics to employ Arkham Asylum as a plot device.
+ So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
+ 
+ This brings us full circle to where we started: the  Batman’s iconic 1974 issue whhich introduced Arkham Hospital for the criminally insane. In particular, this is also the moment when  General Harris breaks free Two-Face and they both leave behind a very angry Joker.
+
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="Batman #258, 1974, p.8."
+  image-path="scrollstory/images/for my project/1974 BATMAN 258 P8C"
+%}
+
+
+ By now  we hopefully acquired some necessary historical background that would allow us to better understand the choice of DC Comics to employ Arkham Asylum as a plot device.
 
