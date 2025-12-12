@@ -368,7 +368,7 @@ The series debuted right on the heels of General Harris's dramatic escape with T
 [^note367]: Denny O'neil, "The Joker's Double Jeopardy!" *Joker* #1, May 1975, p.1.  
 
 {% include figure.html
-  class="right"
+  class="left"
   width="40%"
   caption="from *Joker* #2, July 1975, p.2"
   image-path="scrollstory/images/for my project/1975 joker 2 p2.png"
