@@ -341,8 +341,9 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
   image-path="scrollstory/images/for my project/1974 BATMAN 258 P8C.png"
 %}
 
- Fast forward a few months to -
- ## May 1975, 
+ Fast forward a few months to...
+ 
+ # May 1975, 
 
 {% include figure.html
   class="center"
