@@ -388,6 +388,17 @@ Indeed, time after time Joker is either breaking free by himself -
   image-path="scrollstory/images/for my project/1975 JOKER 1 PP23.png"
 %}
 
+Or with the help of outside collaborators (as in *Joker*#2, with Weeping Willy).
+
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *Joker* #2, July 1975, p.2"
+  image-path="scrollstory/images/for my project/1975 joker 2 p2willy.png"
+%}
+
+
 
 
 
