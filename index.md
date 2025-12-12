@@ -344,7 +344,8 @@ Next followed the Medicare and Medicaid in 1965, which shifted institutional fun
  Fast forward a few months to -
  ## May 1975, 
 
-{% include jumbotron.html
+{% include figure.html
+  class="center"
   height="50vh"
   image-path="/scrollstory/images/for my project/joker1975.png"
   title=""
