@@ -346,12 +346,10 @@ Fast forward a few months to...
  
 # May 1975,  
 
-{% include figure.html
-  class="center"
-  height="50vh"
-  width="130%"
-  image-path="/scrollstory/images/for my project/joker1975 g.png"
-  title=""
+{%
+include scrollybox/bg.html
+height="vh"
+image-path="/scrollstory/images/for my project/joker1975 g.png"
 %}
 
 DC Comics made a very bold move. After alost two decades when Joker almost disappeared and was more of a goofy harmless prankster  rather than a serious criminal and threat to Batman-  the comic company decided on launching a dedicated series all for him. 
@@ -386,7 +384,7 @@ Indeed, time after time Joker is either breaking free by himself -
   class="center"
   width="100%"
   caption="from *Joker* #1, May 1975, pp.2-3"
-  image-path="scrollstory/images/for my project/1975 JOKER 1 PP23.png"
+  image-path="scrollstory/images/for my project/1975 JOKER 1 PP 23.png"
 %}
 
 Or with the help of outside collaborators (as in *Joker*#2, with Weeping Willy).
