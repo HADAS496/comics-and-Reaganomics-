@@ -404,10 +404,16 @@ As we can see, while the 1970s Batman's tales often kick off with the release of
 It took until 1980 for Arkham to officially become Arkham Asylum, rather than being referred to as "Arkham Hospital" throughout the 1970s, but the core-narrative never changes: no one gets out of Arkham because of a successful treatment, psychosurgery or antipsychotic drugs, and followed with rehabilitation back to society; and neither do the new, civil-rights informed laws that forbid involuntary confinement of mentally ill people show up in these comics. 
 This stagnant portrayal begs the question: 
 
-### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? What do they have to say for their defense? Are these infamous villains genuinely "criminally insane," or could they be more accurately classified under the intriguing term “super-sane,” as comic writer Grant Morrison suggested in his 1989 comic dedicated entirely to Arkham Asylum? 
+### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? 
 
+Already in *Batman* #260 (1974), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
 
-
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *Batman* #260, 1974, p.6"
+  image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
+%}
 
 
 
