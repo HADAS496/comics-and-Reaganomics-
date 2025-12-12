@@ -291,7 +291,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 
 After Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies. Joker, in fact,  almost completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.[^note292]
 
-[note292]: Alex Cohen, "The Joker: Torn Between Goof and Evil," *NPR* July 16, 2008, https://web.archive.org/web/20140408202520/http://www.npr.org/
+[^note292]: Alex Cohen, "The Joker: Torn Between Goof and Evil," *NPR* July 16, 2008, https://web.archive.org/web/20140408202520/http://www.npr.org/
 
 {% include figure.html
   class="center"
@@ -318,7 +318,7 @@ During that same time federal legislation started to take root. The 1963 Communi
   image-path="scrollstory/images/for my project/LJB 1965.jpg"
 %}
 
-Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals. [note316]
+Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals. [^note316]
 [^note316]: Parsons,*from Asylum to Prison*, pp. 70, 74, 116.
 
 
