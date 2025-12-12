@@ -365,4 +365,13 @@ DC Comics made a very bold move. After alost two decades when Joker almost disap
 
 The series debuted right on the heels of General Harris's dramatic escape with Two-Face, leaving the Joker behind in a fit of fury and revenge. This pivotal moment marked not only a significant turning point in the Joker's storyline but also an intriguing connection to Arkham Asylum. While Batman #258 initially associated Two-Face with Arkham Hospital, the first issue of the Joker series boldly announced, “You’ve just entered the Arkham Asylum for the Criminally Insane - in the midst of an escape! Therefore… You’re in on the beginning of one of the strangest episodes in the annals of crime! Look… Listen…” (Joker #1, 1975,1).  
 
-DC Comics kept using Arkham as hospital in some comics and asylum at others, sometime in the very same comic. In Joker #2, for example, the captions announced “Arkham asylum for the criminally insane” but the signage in the panel’s drawing says “Arkham Hospital.” After yet again another escape of Joker, the superintendent of the Asylum shouts at the staff: “How could you be fooled by that? This is the FIFTH TIME you’ve let THE JOKER escape! Well, there won’t be a sixth!” (p2). 
+DC Comics kept using Arkham as hospital in some comics and asylum at others, sometime in the very same comic. In Joker #2, for example, the captions announced “Arkham asylum for the criminally insane” but the signage in the panel’s drawing says “Arkham Hospital.” After yet again another escape of Joker, the superintendent of the Asylum shouts at the staff: “How could you be fooled by that? This is the FIFTH TIME you’ve let THE JOKER escape! Well, there won’t be a sixth!” [^note369]
+
+[^note369]: Danny Onneil, "The Sad Saga of Willy the Weeper!" *Joker* #2 (July 1975): p.2. 
+
+{% include figure.html
+  class="right"
+  width="40%"
+  caption="from *Joker* #2, July 1975, p.2"
+  image-path="scrollstory/images/for my project/1975 joker 2 p2.png"
+%}
