@@ -293,7 +293,25 @@ So after Wertham’s book and the establishment of the Comics Code Authority in 
 
 
 
-During that same time federal legislation started to take root. The 1963 Community Mental Health Act funded community-based centers offering inpatient/outpatient care, partial hospitalization, emergency services, and education. Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals (Parsons, 2018, pp. 70, 74, 116). The 1966 Lake v. Cameron ruling established the “least restrictive setting” principle, requiring discharge to less restrictive environments when possible. Combined with stricter admission criteria, these changes made hospitalization much harder to access. As a result, many individuals with severe mental illness were discharged without adequate community support, leading to widespread homelessness, arrests, and premature deaths. Psychiatrist Darold Treffert’s 1973 phrase “dying with one’s rights on” criticized laws that prioritized civil liberties over safety and treatment needs. This trend culminated in the 1975 Supreme Court case O’Connor v. Donaldson, which ruled that nondangerous individuals capable of surviving safely outside (alone or with help) could not be confined against their will (Daniel, 2013, p. 887).
+During that same time federal legislation started to take root. The 1963 Community Mental Health Act funded community-based centers offering inpatient/outpatient care, partial hospitalization, emergency services, and education.
+
+{% include figure.html
+  class="right"
+  width="30%"
+  caption=""
+  image-path="scrollstory/images/for my project/jfk.jpg"
+%}
+
+Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals (Parsons, 2018, pp. 70, 74, 116).
+
+{% include figure.html
+  class="left"
+  width="20%"
+  caption="President Lyndon B. Johnson signs the Medicare bill in Independence, Mo., July 30, 1965. At right is former President Harry Truman."
+  image-path="scrollstory/images/for my project/LJB 1965.jpg"
+%}
+
+ The 1966 Lake v. Cameron ruling established the “least restrictive setting” principle, requiring discharge to less restrictive environments when possible. Combined with stricter admission criteria, these changes made hospitalization much harder to access. As a result, many individuals with severe mental illness were discharged without adequate community support, leading to widespread homelessness, arrests, and premature deaths. Psychiatrist Darold Treffert’s 1973 phrase “dying with one’s rights on” criticized laws that prioritized civil liberties over safety and treatment needs. This trend culminated in the 1975 Supreme Court case O’Connor v. Donaldson, which ruled that nondangerous individuals capable of surviving safely outside (alone or with help) could not be confined against their will (Daniel, 2013, p. 887).
 
 
  So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. This brings us full circle to the year when Batman’s iconic 1974 issue introduced Arkham State for the criminally insane. By now  we hopefully acquired some necessary historical background that would allow us to better understand the choice of DC Comics to employ Arkham Asylum as a plot device.
