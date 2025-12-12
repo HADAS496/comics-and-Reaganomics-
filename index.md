@@ -292,15 +292,15 @@ So after Wertham’s book and the establishment of the Comics Code Authority in 
 %}
 
 
-
-During that same time federal legislation started to take root. The 1963 Community Mental Health Act funded community-based centers offering inpatient/outpatient care, partial hospitalization, emergency services, and education.
-
 {% include figure.html
   class="right"
   width="30%"
-  caption=""
+  caption="President John F. Kennedy Signs the Mental Retardation Facilities and Community Mental Health Center Construction Act. Photograph by Cecil Stoughton. White House Photographs. John F. Kennedy Presidential Library and Museum, Boston."
   image-path="scrollstory/images/for my project/jfk.jpg"
 %}
+
+During that same time federal legislation started to take root. The 1963 Community Mental Health Act funded community-based centers offering inpatient/outpatient care, partial hospitalization, emergency services, and education.
+
 
 Next followed the Medicare and Medicaid in 1965, which shifted institutional funding from states to the federal government, encouraging reduced reliance on large psychiatric hospitals (Parsons, 2018, pp. 70, 74, 116).
 
