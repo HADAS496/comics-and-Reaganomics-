@@ -426,9 +426,18 @@ This stagnant portrayal begs the question:
 Already in *Batman* #260 (1974), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
 
 
-This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing, as in the Joker #4, when he proudly tells his kidnappee: “Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!” [^note424]
+This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing,
+
+{%
+include aside.html
+class="left"
+width="50%"
+text="Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”" [^note424]
 
 [^note424]: Elliot Shimmagin, "A Gold Star for The Joker," *Joker* #4 December 1975, p. 10.
+%}
+
+ as in the Joker #4, when he proudly tells his kidnappee: “
 
 {% include figure.html
   class="center"
