@@ -237,7 +237,7 @@ This image has a caption, but no title|
 %}
 
 {% include carousel.html
-width = "50%"
+width = "80%"
 class = "right"
 images = images
 headers = headers
