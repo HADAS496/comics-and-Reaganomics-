@@ -432,13 +432,14 @@ This stagnant portrayal begs the question:
 
 {% include figure.html
   class="right"
-  width="80%"
+  width="70%"
   caption="from *Batman* #260, 1975, p.6"
   image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
 %}
 
-Already in *Batman* #260 (February 1975), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
+Already in *Batman* #260 (February 1975), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!” [^note441]
 
+[^note441]: from Dennis Onneil, “This One’ll Kill You, Batman!” *Batman* #260 (DC Comics, February 1975) p.6.
 
 This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing, as in the *Joker* #4, when he proudly tells his kidnappee:
 
@@ -470,15 +471,9 @@ This what leads some to argue that deinstitutionalization was more of trans-inst
 
 
 
-
----
-title: Bibliography
-layout: base
----
-
 # Bibliography
 
-## Primary Sources
+### Primary Sources
 1. “Comth. ex rel. Ross v. Dye,” *The Pittsburgh Legal Journal* 102 (1954): 486-488.
 
 2. “Laughing Eel Surrenders,” *Pittsburgh Post-Gazette*, November 19, 1954.
@@ -504,7 +499,7 @@ layout: base
 
 - Siegel, Jerry. *Superman* #17. DC Comics, July–August 1942.
 
-## Secondary Sources
+### Secondary Sources
 
 - Daniel, Yohanna. “Deinstitutionalization of People with Mental Illness: Causes and Consequences.” *Virtual Mentor American Medical Association Journal of Ethics* 15, no. 10 (2013): 886–91. https://doi.org/10.1001/virtualmentor.2013.15.10.mhst1-1310.
 
