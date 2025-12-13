@@ -404,6 +404,8 @@ DC Comics kept using Arkham as hospital in some comics and asylum at others, som
 
 
 - 
+
+
 Indeed, time after time Joker is either breaking free by himself -
 
 {% include figure.html
@@ -439,7 +441,7 @@ This stagnant portrayal begs the question:
 
 Already in *Batman* #260 (February 1975), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!” [^note441]
 
-[^note441]: from Dennis Onneil, “This One’ll Kill You, Batman!” *Batman* #260 (DC Comics, February 1975) p.6.
+[^note441]: Dennis Onneil, “This One’ll Kill You, Batman!” *Batman* #260 (DC Comics, February 1975) p.6.
 
 This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing, as in the *Joker* #4, when he proudly tells his kidnappee:
 
