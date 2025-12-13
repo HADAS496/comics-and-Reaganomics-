@@ -138,7 +138,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
-## Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
+Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
 
 What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people.[^notew]
 
@@ -306,7 +306,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 {% include figure.html
   class="left"
   width="70%"
-  caption=""
+  caption="Cesar Romero as The Joker in 1966's television show of Batman."
   image-path="scrollstory/images/for my project/joker-oh-goody.gif"
 %}
 # Yes, it is time we talked about him a little.
@@ -319,7 +319,7 @@ After Wertham’s book and the establishment of the Comics Code Authority in 195
 {% include figure.html
   class="center"
   width="40%"
-  caption=""
+  caption="The campy tv show of Batman aired on 1966 and brought to life Joker with his goofiness and buzzers."
   image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
 %}
 
@@ -428,11 +428,11 @@ This stagnant portrayal begs the question:
 {% include figure.html
   class="right"
   width="80%"
-  caption="from *Batman* #260, 1974, p.6"
+  caption="from *Batman* #260, 1975, p.6"
   image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
 %}
 
-Already in *Batman* #260 (1974), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
+Already in *Batman* #260 (February 1975), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
 
 
 This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing,
