@@ -138,7 +138,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
-##### Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
+## Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
 
 What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people.[^notew]
 
@@ -160,7 +160,7 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
  {% include figure.html
   class="left"
   width="60%"
-  caption="The “Lavender Wheel”, an exhibit that Capt. George Raines  used to teach with as a psychiatry professor at Georgetown. He submitted it to the Congress during 1950's Comittee dedicated to the investigation of “the alleged employment by the departments and agencies of the Government of homosexuals and other moral perverts.”"
+  caption="The “Lavender Wheel”, an exhibit that Capt. George Raines  used to teach with as a psychiatry professor at Georgetown. He submitted it to the Congress during 1950's Comittee dedicated to the investigation of “the alleged employment by the departments and agencies of the Government of homosexuals and other moral perverts.” (Records of the U.S. Senate, RG 46)"
   image-path="scrollstory\images\for my project\lavender-wheel-l.jpg"
 %}
 
