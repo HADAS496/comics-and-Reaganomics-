@@ -420,6 +420,25 @@ Already in *Batman* #260 (1974), when Batman is fighting Joker in Arkham Hospita
   image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
 %}
 
+This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing, as in the Joker #4, when he proudly tells his kidnappee: “Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!” [^note424]
+
+[^note424]: Elliot Shimmagin, "A Gold Star for The Joker," *Joker* #4 December 1975, p. 10.
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *The Joker* #4, 1975, p.10"
+  image-path="scrollstory/images/for my project/1975 JOKER ISSUE 4.png"
+%}
+
+
+In these examples, the Joker discusses his rights as a mental patient and his accountability for his actions and crimes, reflecting the legal discussions of his time. This brings us to the murky waters of criminality, mental health, and the justice system. 
+The social welfare state of 1960s used to assist and care for individuals with substance abuse issues, sex offenders, people with disabilities and undocumented immigrants. However, when president Nixon took over office in 1969 there was a significant shift in how society addressed issues like drug use, crime, and poverty. Policymakers moved away from rehabilitative approaches and leaned toward tougher methods, such as increased surveillance, harsher punishments, coercive tactics, and even quarantine. As state asylums and mental hospitals closed, a new type of institutionalization emerged in the criminal justice system. When severe mentally ill patients couldn’t access community mental health centers, or get real treatment, they often time ended in the streets, which, in turn, led to them disturbing the public order and landing in jail. The criminal justice system, thus, took over the care of these individuals and focused less on diagnosing mental health issues and more on punishing law-breaking behavior. [^note436]
+
+[^note436]: Parsons, *From Asylum to Prison*. p. 6.
+
+
+This what leads some to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. Batman’s comics reflect some vital questions about how society treats those with mental health issues and the effectiveness of the criminal justice system.  
 
 
 
