@@ -223,19 +223,6 @@ scrollstory/images/for my project/1946overcrowd.png,
 scrollstory/images/for my project/1946fwoman.png" | split: ','
 %}
 
-{% 
-assign headers = 
-"A Photo Title,,
-No caption here" | split: ','
-%}
-
-{%
-assign captions = 
-"It's useful to have informative captions|
-This image has a caption, but no title|
-" | split: '|'
-%}
-
 {% include carousel.html
 width = "80%"
 class = "right"
