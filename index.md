@@ -219,13 +219,11 @@ In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreakin
 assign images = 
 "scrollstory/images/for my project/1946nakedness.png,
 scrollstory/images/for my project/1946forcedlabor.png,
-scrollstory/images/for my project/1946idleness.png,
-scrollstory/images/for my project/1946overcrowd.png,
-scrollstory/images/for my project/1946woman.png" | split: ','
+scrollstory/images/for my project/1946overcrowd.png," | split: ','
 %}
 
 {% include carousel.html
-width = "45%"
+width = "55%"
 class = "left"
 images = images
 headers = headers
