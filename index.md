@@ -431,12 +431,12 @@ This is a critical commentary during a time when the notion of “danger to hims
 include aside.html
 class="left"
 width="50%"
-text="Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”" [^note424]
-
-[^note424]: Elliot Shimmagin, "A Gold Star for The Joker," *Joker* #4 December 1975, p. 10.
+text="Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”" 
 %}
 
- as in the Joker #4, when he proudly tells his kidnappee: “
+ as in the Joker #4, when he proudly tells his kidnappee: "Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”" [^note424]
+
+[^note424]: Elliot Shimmagin, "A Gold Star for The Joker," *Joker* #4 December 1975, p. 10.
 
 {% include figure.html
   class="center"
