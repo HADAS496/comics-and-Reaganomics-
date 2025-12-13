@@ -406,6 +406,9 @@ DC Comics kept using Arkham as hospital in some comics and asylum at others, som
 - 
 
 
+
+
+
 Indeed, time after time Joker is either breaking free by himself -
 
 {% include figure.html
