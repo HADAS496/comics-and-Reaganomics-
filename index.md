@@ -125,7 +125,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 
 {% include figure.html
   class="right"
-  width="35%"
+  width="40%"
   caption="from *Batman* #258, 1974, p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
@@ -133,7 +133,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 
 {% include figure.html
   class="right"
-  width="35%"
+  width="40%"
   caption="from *Batman* #258, 1974, p.9"
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
