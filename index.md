@@ -115,7 +115,7 @@ So, what was really going on during this time that might have bled into the most
 {% include figure.html
   class="right"
   width="60%"
-  caption="Don’t believe me? Click the picture to watch this cute 1951 national defense film aimed at educating civilians on how to take cover during a scenario of nuclear bombing or go to https://www.youtube.com/watch?v=LWH4tWkZpPU "
+  caption=" Take a look at this cute 1951 national defense film aimed at educating civilians on how to take cover during a scenario of nuclear bombing. Go to https://www.youtube.com/watch?v=LWH4tWkZpPU  or look for director Anthony Rizzo's *Duck and Cover*, 1951, Federal Civil Defense Administration, Washington, D.C."
   image-path="scrollstory/images/for my project/duck.png"
 %}
 
@@ -296,7 +296,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
   box-content="
   Louis Henry Ross has committed series of robberies during the year of 1920, and his victims often reported of his hysterical laughter while doing so, thus leading to his unique nickname by the press. Upon being caught in 1921, he was to receive a six to ten year prison term. However, following a mental breakdown during his first two years in prison, the judge declared him insane and put him in Farview, a rather new state hospital in the American landscape at Pennsylvania which opened its doors in 1912 and was dedicated for the criminally insane. Ross had lived in this institution, never receiving any therapy of any kind. Even when he did improved on his own and seemed, by the attendants as “pleasant, coherent and relevant” and “normal in every respect,” his release was never recommended and even his pleas for examination or parole hearings were denied.In 1954 he tried to escape and manage to get to attorney office and arranged for a lawsuit. The judge ordered his immediate release, saying that Farview “would necessarily condemn a patient for life with no hope of returning to society.” Upon his release in December 9th, headlines exploded, announcing the release of perfectly sane person from unjust state mental facility after being trapped there for over 20 years.[^noteM] 
   
-[^noteM]: “Comth. ex rel. Ross v. Dye,” 488; Anne E. Parsons, *From Asylum to Prison Deinstitutionalization and the Rise of Mass Incarceration after 1945* (The University of North Carolina Press, 2018) p. 49.
+[^noteM]: For a more detailed account of the Ross case, see Tyler Stump, “Louis ‘The Laughing Eel’ Ross and the Road of No Return: Incarcerating the ‘Criminally Insane,’” Nursing Clio (blog), June 27, 2019, https://nursingclio.org/2019/06/27/louis-the-laughingeel-ross-and-the-road-of-no-return-incarcerating-the-criminally-insane/. Tyler Stump, “‘Road of No Return’: Farview State Hospital,” Pennsylvania History: A Journal of Mid-Atlantic Studies 88, no. 2 (2021): pp. 217-219; “Comth. ex rel. Ross v. Dye,” 488; Anne E. Parsons, *From Asylum to Prison Deinstitutionalization and the Rise of Mass Incarceration after 1945* (The University of North Carolina Press, 2018) p. 49. 
 "  
 %}
 
