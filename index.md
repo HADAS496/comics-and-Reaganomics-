@@ -131,6 +131,12 @@ Indeed, in this specific comic book, there are several panels that include expla
   caption="from *Batman* #258, 1974 p.9"
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
+{% include figure.html
+  class="left"
+  width="45%"
+  caption="from *Batman* #258, 1974 p.16"
+  image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
+%}
 
 What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people.[^notew]
 
