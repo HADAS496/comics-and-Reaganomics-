@@ -6,11 +6,6 @@ author: Fred Gibbs
 date: 2024-10-28
 ---
 
----
-title: 
-layout: base
----
-
 # From “Hospital for the Criminally Insane” to “Plot Device” – A Cultural History of Arkham Asylum
 {% include figure.html
   class="left"
