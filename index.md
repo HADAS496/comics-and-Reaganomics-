@@ -124,7 +124,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 [^notex]:Odd Arne Westad, *The Global Cold War: Third World Interventions and the Making of Our Times* (Cambridge University Press, 2005) pp. 2-4.
 
 {% include figure.html
-  class="left"
+  class="right"
   width="35%"
   caption="from *Batman* #258, 1974 p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
