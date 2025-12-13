@@ -209,7 +209,7 @@ This book played a significant role in the criticism of comics during that time,
 
 In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 {% include figure.html
-  class="right"
+  class="left"
   width="30%"
   caption="The cover of Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946."
   image-path="scrollstory\images\for my project\lifecover1946.png"
@@ -225,7 +225,7 @@ scrollstory/images/for my project/1946 p107.png," | split: ','
 
 {% include carousel.html
 width = "55%"
-class = "left"
+class = "right"
 images = images
 headers = headers
 captions = captions 
