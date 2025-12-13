@@ -211,7 +211,7 @@ In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreakin
 {% include figure.html
   class="left"
   width="30%"
-  caption="The cover of Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946."
+  caption="The cover of Maisel's article in *Life* Magazine, from May 6, 1946."
   image-path="scrollstory\images\for my project\lifecover1946.png"
 %}
 
