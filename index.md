@@ -98,7 +98,7 @@ As the plot thickens, our heroes, Batman and Robin, spring into action, racing a
 {% include jumbotron.html
   height="60vh"
   image-path="scrollstory/images/for my project/1974 batman 258 p9 Harris.png"
-  title="From *Batman* #258, 1974 p.9."
+  caption="From *Batman* #258, 1974 p.9."
 %}
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of ”POW!,” “Bam!” and “KA-PAW!”
