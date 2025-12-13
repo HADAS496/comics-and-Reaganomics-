@@ -220,6 +220,8 @@ This book played a significant role in the criticism of comics during that time,
   caption=""
   image-path="scrollstory\images\for my project\1946 2.png"
 %}
+
+
 In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 
 {%
