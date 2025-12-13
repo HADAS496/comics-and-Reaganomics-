@@ -124,14 +124,13 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 
 [^notex]:Odd Arne Westad, *The Global Cold War: Third World Interventions and the Making of Our Times* (Cambridge University Press, 2005) pp. 2-4.
 
-Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima:
+# Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima:
 {% include figure.html
   class="right"
   width="60%"
   caption="from *Batman* #258, 1974 p.9"
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
-
 {% include figure.html
   class="left"
   width="35%"
