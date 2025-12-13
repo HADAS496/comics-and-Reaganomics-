@@ -315,7 +315,7 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 
 
 {% include figure.html
-  class="right"
+  class="left"
   width="40%"
   caption="The Joker's famous lethal buzzer in 1966's Batman show."
   image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
