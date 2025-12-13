@@ -131,6 +131,7 @@ Indeed, in this specific comic book, there are several panels that include expla
   caption="from *Batman* #258, 1974 p.9"
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
+
 {% include figure.html
   class="left"
   width="45%"
@@ -147,7 +148,7 @@ What probably triggered this nuclear panic we are witnessing in this comic was t
   caption="from *Batman* #258, 1974 p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
-In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^note0] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels: 
+In the popular imagination of this era, the concept of "villains" turned into a real blockbuster of paranoia. No longer just the menacing foes lurking beyond the borders with their nuclear arsenal, but also "traitors from within"—such as double agents and Soviet sympathizers.[^note0] Although this Batman comic does not mention Soviet influence, it offers a two-for-one deal on villainy: a nuclear threat paired with ordinary traitors. Yes, in plural, as not only General Harris is in on the scheme but also a side character that appears on only few panels. 
 
 [^note0]: Jenell M. Johnson, American Lobotomy: A Rhetorical History, Corporealities: Discourses of Disability (University of Michigan Press, 2014), pp. 89, 105. 
 {% include figure.html
@@ -156,7 +157,7 @@ In the popular imagination of this era, the concept of "villains" turned into a 
   caption="from *Batman* #258, 1974 p.7"
   image-path="scrollstory/images/for my project/1974 batman 258 p7b.png"
 %}
-## Samuel Smith-Smythe, a former member of the Atomic Energy Commission. 
+## Enter Samuel Smith-Smythe, a former member of the Atomic Energy Commission. 
 Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the American people trusted with the ultimate weapons. 
 
 Turns out that plot twists weren't just the realm of DC Comics—politicians were crafting their own high-stakes dramas too. Take Senator Joseph McCarthy, for instance. In the early years of the Cold War, he spearheaded a gripping "witch hunt" that could give Batman's rogues gallery a run for their money. His mission? To sniff out alleged communist subversives like a bloodhound on a scent trail, all while leaving behind a legacy that would haunt the nation long after the 1950s faded into history. “Communist subversives” ended up being a catch-all label that included a unique group: homosexuals. Back then, they were not just considered socially awkward but were actually classified as having a mental disease and as a threat to the national security.[^note3]
