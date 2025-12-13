@@ -156,9 +156,7 @@ In the popular imagination of this era, the concept of "villains" turned into a 
 ## Enter Samuel Smith-Smythe, a former member of the Atomic Energy Commission. 
 Disillusioned by the government’s meager salaries, forsakes his position for the allure of private enterprise, chasing after greater profits.Joining forces with the rogue General Harris, Smythe grants him access to nuclear bombs and spring Two-Face to extort the very government that once employed them both. Coming out on the heels of the Watergate scandal, we can also understand why this is the story the comic chose to tell us. The same summer America learned that the highest officials in the land—White House aides, FBI, CIA, even the President’s personal lawyer—could betray everything for loyalty, power, or a better deal. No Kremlin required. In 1974 the scariest enemy wasn’t wearing a hammer-and-sickle pin; he was wearing the same suit and tie as the American people trusted with the ultimate weapons. 
 
-### Turns out that plot twists weren't just the realm of DC Comics—politicians were crafting their own high-stakes dramas too.
- Take Senator Joseph McCarthy, for instance. In the early years of the Cold War, he spearheaded a gripping "witch hunt" that could give Batman's rogues gallery a run for their money. His mission? To sniff out alleged communist subversives like a bloodhound on a scent trail, all while leaving behind a legacy that would haunt the nation long after the 1950s faded into history. “Communist subversives” ended up being a catch-all label that included a unique group: homosexuals. 
- 
+
  {% include figure.html
   class="left"
   width="60%"
@@ -166,7 +164,8 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
   image-path="scrollstory\images\for my project\lavender-wheel-l.jpg"
 %}
 
- 
+### Turns out that plot twists weren't just the realm of DC Comics—politicians were crafting their own high-stakes dramas too.
+ Take Senator Joseph McCarthy, for instance. In the early years of the Cold War, he spearheaded a gripping "witch hunt" that could give Batman's rogues gallery a run for their money. His mission? To sniff out alleged communist subversives like a bloodhound on a scent trail, all while leaving behind a legacy that would haunt the nation long after the 1950s faded into history. “Communist subversives” ended up being a catch-all label that included a unique group: homosexuals. 
  Back then, they were not just considered socially awkward but were actually classified as having a mental disease and as a threat to the national security.[^note3]
 
 [^note3]: Robert L. Ivie, “Cold War Motives and the Rhetorical Metaphor: A Framework of Criticism,” in *Cold War Rhetoric: Strategy, Metaphor, and Ideology*, ed. Martin J. Medhurst et al, (Michigan State University Press, 1997), p. 75. 
