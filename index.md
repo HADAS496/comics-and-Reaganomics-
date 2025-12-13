@@ -133,7 +133,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 
 {% include figure.html
   class="left"
-  width="45%"
+  width="50%"
   caption="from *Batman* #258, 1974, p.9"
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
@@ -160,7 +160,7 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
  {% include figure.html
   class="left"
   width="60%"
-  caption="The “Lavender Wheel” was an exhibit that psychiatry professor George Raines used to teach at Georgetown University during these years. He submitted it to the Congress during in the 1951 Hoey Comittee that was dedicated to the investigation of homosexualsin  government instiutions (Records of the U.S. Senate, RG 46)."
+  caption="The “Lavender Wheel” was an exhibit that psychiatry professor George Raines used to teach at Georgetown University during these years. He submitted it to the Congress during in the 1951 Hoey Comittee that sought to detect homosexuals (Records of the U.S. Senate, RG 46)."
   image-path="scrollstory/images/for my project/lavender-wheel-l.jpg"
   %}
 
