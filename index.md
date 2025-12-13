@@ -193,7 +193,7 @@ The iconic superhero figures such as Batman and Superman emerged in the United S
 {% include figure.html
   class="left"
   width="60%"
-  caption="The offending panel Wertham talks about, from “Ten Nights of Fear!” *Batman* #84, 1954, p.1."
+  caption="The offending panel Wertham talks about from *Batman* #84, 1954, p.1."
   image-path="scrollstory\images\for my project\batmanrobin.png"
 %}
 
