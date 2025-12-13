@@ -169,8 +169,8 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
  Back then, they were not just considered socially awkward but were actually classified as having a mental disease and as a threat to the national security.[^note3]
 
 [^note3]: Robert L. Ivie, “Cold War Motives and the Rhetorical Metaphor: A Framework of Criticism,” in *Cold War Rhetoric: Strategy, Metaphor, and Ideology*, ed. Martin J. Medhurst et al, (Michigan State University Press, 1997), p. 75. 
-
-- This climate bled also into popular culture, and, in our case, superhero comics. 
+- 
+# This climate bled also into popular culture, and, in our case, superhero comics. 
 
 {% include figure.html
   class="right"
