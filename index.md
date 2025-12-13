@@ -235,8 +235,7 @@ One of the most shocking parts of Maisel’s article was his comparison of U.S. 
 {% include juxtapose.html
 image1="scrollstory\images\for my project\second.png"
 image2="scrollstory\images\for my project\second2.png"
-caption="
-"
+caption=""
 %}
 
 
