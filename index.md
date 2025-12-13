@@ -160,7 +160,7 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
  {% include figure.html
   class="left"
   width="60%"
-  caption="The “Lavender Wheel”, an exhibit submitted to Congress used to teach psych students at Georgetown"
+  caption="The “Lavender Wheel”, an exhibit that Capt. George Raines  used to teach with as a psychiatry professor at Georgetown. He submitted it to the Congress during 1950's Comittee dedicated to the investigation of “the alleged employment by the departments and agencies of the Government of homosexuals and other moral perverts.”"
   image-path="scrollstory\images\for my project\lavender-wheel-l.jpg"
 %}
 
