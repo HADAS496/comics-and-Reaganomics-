@@ -211,7 +211,7 @@ This book played a significant role in the criticism of comics during that time,
   class="right"
   width="30%"
   caption="the cover of Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946."
-  image-path="scrollstory\images\for my project\lifecover1948.png"
+  image-path="scrollstory\images\for my project\lifecover1946.png"
 %}
 
 {% 
