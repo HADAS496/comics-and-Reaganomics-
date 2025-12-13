@@ -134,7 +134,7 @@ Indeed, in this specific comic book, there are several panels that include expla
 
 {% include figure.html
   class="left"
-  width="40%"
+  width="35%"
   caption="from *Batman* #258, 1974 p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
@@ -162,7 +162,7 @@ This climate bled also into popular culture, and, in our case, superhero comics.
 {% include figure.html
   class="right"
   width="22%"
-  caption="*Batman*#18, August-September 1943."
+  caption="*Batman* #18, August-September 1943."
   image-path="scrollstory\images\for my project\batman hitler.jpg"
 %}
 
