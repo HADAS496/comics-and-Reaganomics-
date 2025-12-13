@@ -225,7 +225,7 @@ scrollstory/images/for my project/1946fwoman.png" | split: ','
 
 {% include carousel.html
 width = "80%"
-class = "right"
+class = "left"
 images = images
 headers = headers
 captions = captions 
