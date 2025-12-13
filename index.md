@@ -216,9 +216,11 @@ This book played a significant role in the criticism of comics during that time,
 
 {% 
 assign images = 
-"scrollstory/images/for my project/1946 2.png,
-scrollstory/images/for my project/1946 1.png,
-/scrollstories/mesa-vista-hall/images/mvh-tv-room.jpg" | split: ','
+"scrollstory/images/for my project/1946nakedness.png,
+scrollstory/images/for my project/1946forcedlabor.png,
+scrollstory/images/for my project/1946idleness.png,
+scrollstory/images/for my project/1946overcrowd.png,
+scrollstory/images/for my project/1946fwoman.png" | split: ','
 %}
 
 {% 
@@ -235,7 +237,7 @@ This image has a caption, but no title|
 %}
 
 {% include carousel.html
-width = "30%"
+width = "50%"
 class = "right"
 images = images
 headers = headers
