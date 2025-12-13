@@ -134,7 +134,7 @@ Indeed, in this specific comic book, there are several panels that include expla
 
 {% include figure.html
   class="left"
-  width="45%"
+  width="40%"
   caption="from *Batman* #258, 1974 p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
