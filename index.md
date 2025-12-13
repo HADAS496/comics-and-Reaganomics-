@@ -407,14 +407,14 @@ This stagnant portrayal begs the question:
 
 ### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? 
 
-Already in *Batman* #260 (1974), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
-
 {% include figure.html
   class="center"
   width="100%"
   caption="from *Batman* #260, 1974, p.6"
   image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
 %}
+
+Already in *Batman* #260 (1974), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
 
 This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing, as in the Joker #4, when he proudly tells his kidnappee: “Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!” [^note424]
 
