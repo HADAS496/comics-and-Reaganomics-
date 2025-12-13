@@ -208,19 +208,11 @@ This book played a significant role in the criticism of comics during that time,
 ### The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
 {% include figure.html
-  class="left"
-  width="30%"
-  caption=""
-  image-path="scrollstory\images\for my project\1946 1.png"
-%}
-
-{% include figure.html
   class="right"
   width="30%"
-  caption=""
-  image-path="scrollstory\images\for my project\1946 2.png"
+  caption="the cover of Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946."
+  image-path="scrollstory\images\for my project\lifecover1948.png"
 %}
-
 
 {% 
 assign images = 
@@ -243,7 +235,7 @@ This image has a caption, but no title|
 %}
 
 {% include carousel.html
-width = "60%"
+width = "30%"
 class = "right"
 images = images
 headers = headers
