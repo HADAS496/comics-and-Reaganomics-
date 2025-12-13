@@ -135,7 +135,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
   class="left"
   width="50%"
   caption="from *Batman* #258, 1974, p.9"
-  image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
+  image-path="scrollstory/images/for my project/1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
 Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
