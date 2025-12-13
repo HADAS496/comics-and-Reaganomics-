@@ -408,8 +408,8 @@ This stagnant portrayal begs the question:
 ### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? 
 
 {% include figure.html
-  class="center"
-  width="100%"
+  class="right"
+  width="80%"
   caption="from *Batman* #260, 1974, p.6"
   image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
 %}
