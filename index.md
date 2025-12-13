@@ -160,9 +160,9 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
  {% include figure.html
   class="left"
   width="60%"
-  caption="The “Lavender Wheel” was an exhibit that psychiatry professor George Raines used to teach at Georgetown University. He submitted it to the Congress during 1950's Comittee dedicated to the investigation of "homosexuals and other moral perverts” in government instiutions (Records of the U.S. Senate, RG 46)."
-  image-path="scrollstory\images\for my project\lavender-wheel-l.jpg"
-%}
+  caption="The “Lavender Wheel” was an exhibit that psychiatry professor George Raines used to teach at Georgetown University during these years. He submitted it to the Congress during in the 1951 Hoey Comittee that was dedicated to the investigation of homosexualsin  government instiutions (Records of the U.S. Senate, RG 46)."
+  image-path="scrollstory/images/for my project/lavender-wheel-l.jpg"
+  %}
 
 ### Turns out that plot twists weren't just the realm of DC Comics—politicians were crafting their own high-stakes dramas too.
  Take Senator Joseph McCarthy, for instance. In the early years of the Cold War, he spearheaded a gripping "witch hunt" that could give Batman's rogues gallery a run for their money. His mission? To sniff out alleged communist subversives like a bloodhound on a scent trail, all while leaving behind a legacy that would haunt the nation long after the 1950s faded into history. “Communist subversives” ended up being a catch-all label that included a unique group: homosexuals. 
