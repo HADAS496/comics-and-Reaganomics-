@@ -314,16 +314,16 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 # Yes, it is time we talked about him a little.
 
 
-After Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies. Joker, in fact,  almost completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.[^note292]
-
-[^note292]: Alex Cohen, "The Joker: Torn Between Goof and Evil," *NPR* July 16, 2008, https://web.archive.org/web/20140408202520/http://www.npr.org/
-
 {% include figure.html
-  class="center"
+  class="right"
   width="40%"
   caption="The Joker's famous lethal buzzer in 1966's Batman show."
   image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
 %}
+
+After Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies. Joker, in fact,  almost completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.[^note292]
+
+[^note292]: Alex Cohen, "The Joker: Torn Between Goof and Evil," *NPR* July 16, 2008, https://web.archive.org/web/20140408202520/http://www.npr.org/
 
 
 {% include figure.html
@@ -351,7 +351,7 @@ During that same time federal legislation started to take root. The 1963 Communi
  [^note326]: Yohanna Daniel, “Deinstitutionalization of People with Mental Illness: Causes and Consequences,” *Virtual Mentor American Medical Association Journal of Ethics* 15, no. 10 (2013): p. 887.
 
 
- So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
+ So, we’ve just done with  this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
  
 ## This brings us full circle to where we started: the first Batman’s iconic 1974 issue that introduced Arkham Hospital for the criminally insane. 
 In particular, this is also the moment when  General Harris breaks free Two-Face and they both leave behind a very angry Joker.
@@ -374,7 +374,7 @@ height="40vh"
 image-path="/scrollstory/images/for my project/joker1975 g.png"
 %}
 
-## DC Comics made a very bold move. After alost two decades when Joker almost disappeared and was more of a goofy harmless prankster  rather than a serious criminal and threat to Batman-  the comic company decided on launching a dedicated series all for him. 
+## DC Comics made a very bold move. After almost two decades when Joker almost disappeared and was more of a goofy harmless prankster  rather than a serious criminal and threat to Batman-  the comic company decided on launching a dedicated series all for him. 
 
 
 {% include figure.html
