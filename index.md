@@ -134,6 +134,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 {% include figure.html
   class="left"
   width="40%"
+  height="30vh"
   caption="from *Batman* #258, 1974, p.9"
   image-path="scrollstory/images/for my project/1974 batman 258 p9 atomic bomb explanation.png"
 %}
