@@ -400,7 +400,7 @@ DC Comics kept using Arkham as hospital in some comics and asylum at others, som
 
 [^note369]: Danny Onneil, "The Sad Saga of Willy the Weeper!" *Joker* #2 July 1975, p.2. 
 
-
+- 
 Indeed, time after time Joker is either breaking free by himself -
 
 {% include figure.html
