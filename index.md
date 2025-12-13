@@ -80,7 +80,7 @@ image-path="scrollstory/images/for my project/auschwitz.png"
 %}
 ## The origins of Arkham Asylum in the Batman comics date back to 1974, when it was first introduced as a hospital. However, a revealing caption makes it clear: it is merely “a polite name for an asylum which houses the criminally insane.” This unsettling duality sets the stage for a gripping  narrative filled with tension and intrigue.[^note1] 
 
-[^note1]:Dennis O’neil, “threat of the two-Headed coin,” *Batman* #258 (NY: Dc comics, october 1974), 7.
+[^note1]:Dennis O’neil, “threat of the two-Headed coin,” *Batman* #258, October 1974, p.7.
 
 {% include figure.html
   class="right"
@@ -91,14 +91,14 @@ image-path="scrollstory/images/for my project/auschwitz.png"
 
 ### The story kicks off dramatically with the shocking escape of Two-Face, also known as Harvey Dent, from Arkham Hospital. The very cover-page captures the reader's attention, describing Two-Face as “the crook who bases his crimes on the number two! He was on the side of the law until a criminal scarred half his face with acid! Now he’s a mixture of good and evil!”[^note2]
 
-[^note2]: O'neil, *Batman* #258, 1.
+[^note2]: O'neil, *Batman* #258, 1974, p.1.
 
 As the plot thickens, our heroes, Batman and Robin, spring into action, racing against time to recapture Two-Face. His escape from Arkham was orchestrated by a renegade military general named John Harris, who believes “the nation is going to the dogs!” Disillusioned with the current state of affairs, Harris devises a chaotic scheme to hold Washington D.C. ransom using an atomic bomb, enlisting the twisted talents of Two-Face in his perilous plot.
 
 {% include jumbotron.html
   height="60vh"
   image-path="scrollstory/images/for my project/1974 batman 258 p9 Harris.png"
-  caption="From *Batman* #258, 1974 p.9."
+  caption="From *Batman* #258, 1974, p.9."
 %}
 
 As with every Batman comic from that time, the story ends with the successful detention of Two-Face by Batman, with your usual shenanigans of ”POW!,” “Bam!” and “KA-PAW!”
@@ -106,7 +106,7 @@ As with every Batman comic from that time, the story ends with the successful de
 {% include figure.html
   class="center"
   width="100%"
-  caption="From *Batman* #258, 1974 pp. 19-20."
+  caption="From *Batman* #258, 1974, pp. 19-20."
   image-path="scrollstory/images/for my project/1974 batman 258 finale.png"
 %}
 
@@ -126,7 +126,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 {% include figure.html
   class="right"
   width="35%"
-  caption="from *Batman* #258, 1974 p.16"
+  caption="from *Batman* #258, 1974, p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
 
@@ -134,7 +134,7 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 {% include figure.html
   class="right"
   width="40%"
-  caption="from *Batman* #258, 1974 p.9"
+  caption="from *Batman* #258, 1974, p.9"
   image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
