@@ -250,10 +250,13 @@ height="100vh"
 image-path="/scrollstory/images/for my project/holocaust.png"
 %}
 
-
-One of the most harrowing revelations in Maisel’s article is his stark comparison of U.S. mental health institutions to Nazi concentration camps. The above picture, taken from his article, shows a visibly emaciated woman, abandoned and left to suffer, her frail figure and distended abdomen embodying the despair that many experience daily. Next to it, I've compiled two pictures from the liberation of Auschwitz that circulated evern since 1945. By evoking these pictures and connections, Maisel powerfully argued that “through public and legislative penny-pinching, state after state has allowed its institutions for the care and cure of the mentally ill to degenerate into little more than concentration camps on the Belsen pattern.” [^note234] It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
+The above picture to the right, taken from Maisel's article, shows a visibly emaciated woman, abandoned and left to suffer, her frail figure and distended abdomen embodying the despair that many experience daily. One of the most harrowing revelations in Maisel’s article is his stark comparison of U.S. mental health institutions to Nazi concentration camps. Next to it, I've compiled two pictures from the liberation of Auschwitz that circulated ever since 1945. By evoking these pictures and connections, Maisel powerfully argued that “through public and legislative penny-pinching, state after state has allowed its institutions for the care and cure of the mentally ill to degenerate into little more than concentration camps on the Belsen pattern.” [^note234] 
 
 [^note234]: Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.118.
+
+- 
+It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
+
 
 {% include juxtapose.html
 image1="scrollstory/images/for my project/second.png"
