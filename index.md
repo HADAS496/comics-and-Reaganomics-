@@ -247,7 +247,7 @@ captions = captions
 {%
 include scrollybox/bg.html
 height="100vh"
-image-path="/scrollstory/images/for my project/1945 2.jpg"
+image-path="/scrollstory/images/for my project/holocaust.png"
 %}
 
 One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill. It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. [^note234]
@@ -465,6 +465,7 @@ text="“Crazy is exactly what I am! My legal residence is a home for the crimin
 
 
 In these examples, the Joker discusses his rights as a mental patient and his accountability for his actions and crimes, reflecting the legal discussions of his time. This brings us to the murky waters of criminality, mental health, and the justice system. 
+
 The social welfare state of 1960s used to assist and care for individuals with substance abuse issues, sex offenders, people with disabilities and undocumented immigrants. However, when president Nixon took over office in 1969 there was a significant shift in how society addressed issues like drug use, crime, and poverty. Policymakers moved away from rehabilitative approaches and leaned toward tougher methods, such as increased surveillance, harsher punishments, coercive tactics, and even quarantine. As state asylums and mental hospitals closed, a new type of institutionalization emerged in the criminal justice system. When severe mentally ill patients couldn’t access community mental health centers, or get real treatment, they often time ended in the streets, which, in turn, led to them disturbing the public order and landing in jail. The criminal justice system, thus, took over the care of these individuals and focused less on diagnosing mental health issues and more on punishing law-breaking behavior. [^note436]
 
 [^note436]: Parsons, *From Asylum to Prison*. p. 6.
