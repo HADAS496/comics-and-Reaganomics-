@@ -481,6 +481,12 @@ The social welfare state of 1960s used to assist and care for individuals with s
 
 Not only were there movements for civil rights, but also movements for the rights of prisoners which sought to pass bills and statues such as “The Good Time Bill” which aimed to diminish the abolish minimum sentences for most male prisoners. Even just thinking about the name, we can clearly see how such attempted policies were portrayed in Batman comics:  not a real chance of rehabilitation, but rather a “good time,” a real “home” which criminally insane people like the Joke can utilize to their advantage, not only to escape, but to turn to. In that same year, there was also a major event of riot in Attica’s prison, as the inmates took control of the facility. However, instead of demanding their release, they called instead for more rights and basic humanitarian conditions. An army of armed forces swapped the facility, ending up killing 41 inmates and guards. The mainstream media chose to tell a very different story, of which the prisoners had slit hostages’ throats to get their demands met before state troopers invaded. The whole event had led to increasing call for punitive rather than rehabilitative prisons (111-112).
 
+{% include juxtapose.html
+image1="scrollstory/images/for my project/attica 1971 1.webp"
+image2="/scrollstory/images/for my project/attica 1971.webp"
+caption="The 1971 prisoners riot in Attica prison, before and after."
+%}
+
 {% include figure.html
   class="left"
   width="50%"
