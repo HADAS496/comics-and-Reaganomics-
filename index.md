@@ -520,7 +520,7 @@ This what leads some scholars, such as Parsons who I quoted all over here, to ar
 
 While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
 
-### Why Do DC Comics choose to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead?
+
 
 
 {% include figure.html
@@ -530,6 +530,7 @@ While Batman’s comics reflect some vital questions about how society views tho
   image-path="scrollstory/images/for my project/1joker p18.png"
 %}
 
+### Why Do DC Comics choose to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? 
 By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?
 
 To conclude this exploration of Arkham Asylum's shadowed halls, I argue that its establishment as a dedicated institution for the "criminally insane" was far more than a mere plot device—after all, why not simply send Batman’s rogues to ordinary prisons? Instead, Arkham served as a pointed commentary on the criminal justice and mental health systems of the mid-1970s, a time when deinstitutionalization was rapidly emptying state hospitals while public anxiety mounted over where the mentally ill—especially the dangerous ones—would end up.
