@@ -567,9 +567,8 @@ In this exact moment, DC Comics launched The Joker's solo series in May 1975, re
 
   These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
 
-  In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice.
-."
-%}
+  In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice."
+  %}
 
 Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. 
 
