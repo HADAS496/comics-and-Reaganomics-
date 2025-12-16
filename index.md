@@ -255,7 +255,7 @@ The above picture to the right, taken from Maisel's article, shows a visibly ema
 [^note234]: Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.118.
 
 - 
-It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
+## It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
 
 
 {% include juxtapose.html
