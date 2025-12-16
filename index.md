@@ -483,7 +483,7 @@ Not only were there movements for civil rights, but also movements for the right
 
 {% include juxtapose.html
 image1="scrollstory/images/for my project/attica 1971 1.webp"
-image2="/scrollstory/images/for my project/attica 1971.webp"
+image2="/scrollstory/images/for my project/ATTICA2.webp"
 caption="The 1971 prisoners riot in Attica prison, before and after."
 %}
 
