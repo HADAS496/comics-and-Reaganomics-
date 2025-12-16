@@ -493,6 +493,14 @@ The social welfare state of 1960s used to assist and care for individuals with s
 
 [^note481]: Parsons, *From Asylum to Prison*, pp. 6, 99, 106.
 
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *The Joker* #2, 1975, cover."
+  image-path="scrollstory/images/for my project/JOEKRLAW.png"
+%}
+
 Not only were there movements for civil rights, but also movements for the rights of prisoners which sought to pass bills and statues such as “The Good Time Bill” which aimed to diminish the abolish minimum sentences for most male prisoners. Even just thinking about the name, we can clearly see how such attempted policies were portrayed in Batman comics:  not a real chance of rehabilitation, but rather a “good time,” a real “home” which criminally insane people like the Joke can utilize to their advantage, not only to escape, but to turn to. In that same year, there was also a major event of riot in Attica’s prison, as the inmates took control of the facility. However, instead of demanding their release, they called instead for more rights and basic humanitarian conditions. An army of armed forces swapped the facility, ending up killing 41 inmates and guards. The mainstream media chose to tell a very different story, of which the prisoners had slit hostages’ throats to get their demands met before state troopers invaded. The whole event had led to increasing call for punitive rather than rehabilitative prisons. [^note485]
 
 [^note485]: Parson, *From Asylum to Prison*, pp. 111-112.
@@ -512,16 +520,7 @@ And so it was that in 1971 not only the Good Time Bill was rejected, but a whole
 
 [^note500]: Parsons, *From Asylum to Prison*, p. 140.
 
-This what leads some scholars, such as Parsons who I quoted all over here, to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. 
-
-{% include figure.html
-  class="center"
-  width="100%"
-  caption="from *The Joker* #2, 1975, cover."
-  image-path="scrollstory/images/for my project/JOEKRLAW.png"
-%}
-
-While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
+This what leads some scholars, such as Parsons who I quoted all over here, to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
 
 
 
