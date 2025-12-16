@@ -537,7 +537,7 @@ To conclude this exploration of Arkham Asylum's shadowed halls, I argue that its
 
 {% include figure.html
   class="right"
-  width="60%"
+  width="30%"
   caption=""
   image-path="scrollstory/images/for my project/1987.png"
   %}
