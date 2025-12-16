@@ -492,8 +492,7 @@ And so it was that in 1971 not only the Good Time Bill was rejected, but a whole
 
 [^note500]: Parsons, *From Asylum to Prison*, p. 140.
 
-
-This what leads some to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. Batman’s comics reflect some vital questions about how society treats those with mental health issues and the effectiveness of the criminal justice system.  
+This what leads some scholars, such as Parsons who I quoted all over here, to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. 
 
 {% include figure.html
   class="center"
@@ -502,8 +501,10 @@ This what leads some to argue that deinstitutionalization was more of trans-inst
   image-path="scrollstory/images/for my project/JOEKRLAW.png"
 %}
 
+While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
+### Why Do DC Comics chooses to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?###  
 
-What does it really signify when DC Comics chooses to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape? The stark contrast between these two iconic villains raises questions that linger long after the pages are turned.
+
 
 
 
