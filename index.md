@@ -255,7 +255,7 @@ The above picture to the right, taken from Maisel's article, shows a visibly ema
 [^note234]: Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.118.
 
 - 
-## It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
+### It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
 
 
 {% include juxtapose.html
@@ -434,9 +434,20 @@ Or with the help of outside collaborators (as in *Joker*#2, with Weeping Willy).
 As we can see, while the 1970s Batman's tales often kick off with the release of patients from Arkham Hospital/Asylum, these rarely reflect the reality of effective treatment, such as the use of antipsychotic medications, or the legal reforms aimed at preventing the indefinite confinement of mentally ill individuals. The inability to confine dangerous “insane” criminals keeps resurfacing in these comics as a looming threat to society 
 
 It took until 1980 for Arkham to officially become Arkham Asylum, rather than being referred to as "Arkham Hospital" throughout the 1970s, but the core-narrative never changes: no one gets out of Arkham because of a successful treatment, psychosurgery or antipsychotic drugs, and followed with rehabilitation back to society; and neither do the new, civil-rights informed laws that forbid involuntary confinement of mentally ill people show up in these comics. 
-This stagnant portrayal begs the question: 
+This stagnant portrayal begs the question... or rather... the riddle:
 
-### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? 
+{% include scrollybox/bg-sticky.html
+  image-path="scrollstory/images/for my project/riddler2.png"
+  above-box-space="100vh"
+  below-box-space="80vh"
+  box-content="
+  Ridde me this: 
+  *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
+  *Yet that same era saw Arkham rise, where the criminally insane never leave.*
+  *What ties liberation’s dawn to fiction’s endless night?*
+  *Why does my playground defy the law’s progressive light?*"
+%}
+
 
 {% include figure.html
   class="right"
@@ -502,8 +513,9 @@ This what leads some scholars, such as Parsons who I quoted all over here, to ar
 %}
 
 While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
-### Why Do DC Comics chooses to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?###  
+### Why Do DC Comics chooses to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?
 
+ 
 
 
 
