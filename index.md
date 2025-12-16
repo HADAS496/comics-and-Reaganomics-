@@ -556,7 +556,7 @@ What began in the Cold War era with McCarthyism and *Seduction of the Innocent* 
 
 In this exact moment, DC Comics launched The Joker's solo series in May 1975, reviving him under Dennis O'Neil as a gleefully homicidal maniac repeatedly deemed "legally insane." His endless cycle—commit chaos, get caught, escape Arkham's supposedly secure walls—embodied the very fears deinstitutionalization provoked: What happens when the truly dangerous "mad" are not safely contained? While civil commitment laws tightened to protect patient rights and mandate least-restrictive care for the non-dangerous, criminal insanity debates heated up. Michigan's pioneering Guilty But Mentally Ill verdict that year addressed backlash against perceived leniency in Not Guilty by Reason of Insanity acquittals, emphasizing punishment alongside treatment and reflecting public anxiety over released offenders.
 
-### Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. 
+#### Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. 
 
 {% include figure.html
   class="right"
@@ -566,7 +566,7 @@ In this exact moment, DC Comics launched The Joker's solo series in May 1975, re
 %}
 
 
-As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. 
+### As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. 
 
 {% include figure.html
   class="left"
@@ -575,7 +575,7 @@ As a child dressing as Batman for Purim, captivated by the hero's brooding justi
   image-path="scrollstory/images/for my project/anbimated1.jpg"
 %}
 
-These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
+## These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
 
 
 {% include figure.html
@@ -585,7 +585,12 @@ These fictional portrayals didn't just entertain; they reinforced cultural fears
   image-path="scrollstory/images/for my project/game.jpg"
 %}
 
-#In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice.
+# In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice.
+
+
+
+
+
 
 
 # Bibliography
