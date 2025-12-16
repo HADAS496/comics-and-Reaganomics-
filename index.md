@@ -558,7 +558,7 @@ In this exact moment, DC Comics launched The Joker's solo series in May 1975, re
 
 {% include figure.html
   class="right"
-  width="60%"
+  width="45%"
   caption=""
   image-path="scrollstory/images/for my project/asylumsymbol.jpg"
 %}
