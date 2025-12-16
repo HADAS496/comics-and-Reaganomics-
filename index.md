@@ -437,20 +437,19 @@ As we can see, while the 1970s Batman's tales often kick off with the release of
 It took until 1980 for Arkham to officially become Arkham Asylum, rather than being referred to as "Arkham Hospital" throughout the 1970s, but the core-narrative never changes: no one gets out of Arkham because of a successful treatment, psychosurgery or antipsychotic drugs, and followed with rehabilitation back to society; and neither do the new, civil-rights informed laws that forbid involuntary confinement of mentally ill people show up in these comics. 
 This stagnant portrayal begs the question... or rather... the riddle:
 
-
-
-{% include scrollybox/bg-sticky.html
-  image-path="scrollstory/images/for my project/riddler3.png"
-  above-box-space="100vh"
-  below-box-space="80vh"
-  box-content="
-  Ridde me this: 
+{% 
+include scrollybox/bg.html
+above-box-space="50vh"
+below-box-space="50vh"
+height="100vh"
+image-path="/scrollstory/images/for my project/riddler3.png"  
+box-content=" 
+Ridde me this: 
   *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
   *Yet that same era saw Arkham rise, where the criminally insane never leave.*
   *What ties liberation’s dawn to fiction’s endless night?*
   *Why does my playground defy the law’s progressive light?*"
 %}
-
 
 {% include figure.html
   class="right"
