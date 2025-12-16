@@ -446,10 +446,13 @@ image-path="/scrollstory/images/for my project/riddler3.png"
 box-content=" 
 Ridde me this: 
 
-  # *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
-  # *Yet that same era saw Arkham rise, where the criminally insane never leave.*
-  # *What ties liberation’s dawn to fiction’s endless night?*
-  # *Why does my playground defy the law’s progressive light?*"
+  *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
+  
+  *Yet that same era saw Arkham rise, where the criminally insane never leave.*
+
+  *What ties liberation’s dawn to fiction’s endless night?*
+  
+  *Why does my playground defy the law’s progressive light?*"
 %}
 
 - 
