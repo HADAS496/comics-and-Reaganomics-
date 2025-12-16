@@ -436,8 +436,10 @@ As we can see, while the 1970s Batman's tales often kick off with the release of
 It took until 1980 for Arkham to officially become Arkham Asylum, rather than being referred to as "Arkham Hospital" throughout the 1970s, but the core-narrative never changes: no one gets out of Arkham because of a successful treatment, psychosurgery or antipsychotic drugs, and followed with rehabilitation back to society; and neither do the new, civil-rights informed laws that forbid involuntary confinement of mentally ill people show up in these comics. 
 This stagnant portrayal begs the question... or rather... the riddle:
 
+
+
 {% include scrollybox/bg-sticky.html
-  image-path="scrollstory/images/for my project/riddler2.png"
+  image-path="scrollstory/images/for my project/riddler3.png"
   above-box-space="100vh"
   below-box-space="80vh"
   box-content="
@@ -514,6 +516,8 @@ This what leads some scholars, such as Parsons who I quoted all over here, to ar
 
 While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
 ### Why Do DC Comics chooses to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?
+
+To conclude this epic journey, I will  argue that Arkham Asylum for the Criminally Insane was not created solely as a plot device (for else, why wouldn't they use the good old setting of prison?)-  rather, it seems to me that they were tryiing to make a point about criminals  during that time and the way they manipulate the system. Both the  Joker and Two-Face are not, in fact, insane at all. They plan their actions, they are very much aware to their environment. They are not out of touch with reality at all!      
 
  
 
