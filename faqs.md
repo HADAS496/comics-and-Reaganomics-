@@ -60,21 +60,21 @@ Layered within this debut issue of Arkham is the context of the Cold War, a peri
 
 {% include figure.html
   class="right"
-  width="40%"
+  width="30%"
   caption="from *Batman* #258, 1974, p.16"
   image-path="scrollstory/images/for my project/1974 batman 258 p16 nuclear.png"
 %}
 
+Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
 
 {% include figure.html
   class="left"
   width="50%"
   caption="from *Batman* #258, 1974, p.9"
-  image-path="scrollstory\images\for my project\1974 batman 258 p9 atomic bomb explanation.png"
+  image-path="scrollstory/images/for my project/1974 batman 258 p9 atomic bomb explanation.png"
 %}
 
-Indeed, in this specific comic book, there are several panels that include explanations on how nuclear bomb works and mentions of Hiroshima.
-
+  
 What probably triggered this nuclear panic we are witnessing in this comic was the collapse of the so-called “détente”—a fancy French word for "let's not blow each other up," crafted in the early '70s by Nixon and Kissinger. They thought they could keep the nuclear arms race from becoming a full-blown game of nuclear chicken, especially when the Soviet Union caught up with the U.S. in the atomic arms department. However, after Watergate and Nixon's resignation in 1974, the détente started to crack and the threat of nuclear escalation was back to haunt the people.[^notew]
 
 [^notew]: Melvyn P. Leffler and Odd Arne Westad, *The Cambridge History of the Cold War* (Cambridge university press, 2010), pp. 135-138.
@@ -105,7 +105,9 @@ Disillusioned by the government’s meager salaries, forsakes his position for t
 
 [^note3]: Robert L. Ivie, “Cold War Motives and the Rhetorical Metaphor: A Framework of Criticism,” in *Cold War Rhetoric: Strategy, Metaphor, and Ideology*, ed. Martin J. Medhurst et al, (Michigan State University Press, 1997), p. 75. 
 
-- This climate bled also into popular culture, and, in our case, superhero comics. 
+- 
+ 
+# This climate bled also into popular culture, and, in our case, superhero comics. 
 
 {% include figure.html
   class="right"
@@ -152,7 +154,7 @@ This book played a significant role in the criticism of comics during that time,
 
 ### The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
-In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
+In 1946, Albert Q. Maisel, a writer for *Life* magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 {% include figure.html
   class="left"
   width="30%"
@@ -180,12 +182,16 @@ captions = captions
 {%
 include scrollybox/bg.html
 height="100vh"
-image-path="/scrollstory/images/for my project/1945 2.jpg"
+image-path="/scrollstory/images/for my project/holocaust.png"
 %}
 
-One of the most shocking parts of Maisel’s article was his comparison of U.S. mental health institutions to Nazi concentration camps. Maisel argued that due to budget cuts, states allowed mental health institutions to degrade into what he described as “concentration camps,” urging citizens to demand better care and rehabilitation instead of mere confinement for the mentally ill. It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. [^note234]
+The above picture on the right, taken from Maisel's article, shows a visibly emaciated woman, abandoned and left to suffer, her frail figure and distended abdomen embodying the despair that many experience daily. One of the most harrowing revelations in Maisel’s article is his stark comparison of U.S. mental health institutions to Nazi concentration camps. Next to it, I've compiled two pictures from the liberation of Auschwitz that circulated ever since 1945. By evoking these pictures and connections, Maisel powerfully argued that “through public and legislative penny-pinching, state after state has allowed its institutions for the care and cure of the mentally ill to degenerate into little more than concentration camps on the Belsen pattern.” [^note234] 
 
 [^note234]: Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.118.
+
+- 
+### It seems clear now why the thoughts of Arkham Asylum and Auschwitz are not merely provocative—they are essential for understanding the broader implications of how American society thought about these institutions. 
+
 
 {% include juxtapose.html
 image1="scrollstory/images/for my project/second.png"
@@ -247,16 +253,16 @@ Maisel was not alone in his criticism. In 1948 the film *the snake pit* came out
 # Yes, it is time we talked about him a little.
 
 
+{% include figure.html
+  class="left"
+  width="40%"
+  caption="The Joker's famous lethal buzzer in 1966's Batman show."
+  image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
+%}
+
 After Wertham’s book and the establishment of the Comics Code Authority in 1954, editors of Batman comic books adhered to the principles of banning gore, innuendo and excessive violence, stripping Batman of his menace and transforming the Joker into a goofy, thieving trickster without his original homicidal tendencies. Joker, in fact,  almost completely disappeared from the landscape of Batman comic books during the 1960s, when an editor who disliked the Joker became the main editor of the comic series. The campy 1966 Batman tv series featured Joker in his most clownly goofiness, complete with acid squirting flowers, trick guns and lethal joy buzzers.[^note292]
 
 [^note292]: Alex Cohen, "The Joker: Torn Between Goof and Evil," *NPR* July 16, 2008, https://web.archive.org/web/20140408202520/http://www.npr.org/
-
-{% include figure.html
-  class="center"
-  width="40%"
-  caption="The campy tv show of Batman aired on 1966 and brought to life Joker with his goofiness and buzzers."
-  image-path="scrollstory/images/for my project/Joker 1960s buzzer.webp"
-%}
 
 
 {% include figure.html
@@ -284,7 +290,7 @@ During that same time federal legislation started to take root. The 1963 Communi
  [^note326]: Yohanna Daniel, “Deinstitutionalization of People with Mental Illness: Causes and Consequences,” *Virtual Mentor American Medical Association Journal of Ethics* 15, no. 10 (2013): p. 887.
 
 
- So, we’ve just done boarding the process on this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
+ So, we’ve just done with  this historical crazy train called deinstitutionalization (and good luck saying it without your tongue taking a vacation!) —which is just a fancy term for the shift from state mental hospitals and asylums to community mental health centers. 
  
 ## This brings us full circle to where we started: the first Batman’s iconic 1974 issue that introduced Arkham Hospital for the criminally insane. 
 In particular, this is also the moment when  General Harris breaks free Two-Face and they both leave behind a very angry Joker.
@@ -307,7 +313,8 @@ height="40vh"
 image-path="/scrollstory/images/for my project/joker1975 g.png"
 %}
 
-## DC Comics made a very bold move. After alost two decades when Joker almost disappeared and was more of a goofy harmless prankster  rather than a serious criminal and threat to Batman-  the comic company decided on launching a dedicated series all for him. 
+## DC Comics made a very bold move. After two decades of Joker almost disappearing and beingmore of a goofy harmless prankster rather than a serious criminal and threat to Batman-  
+# The comic company decided on launching a dedicated series all for him. 
 
 
 {% include figure.html
@@ -334,6 +341,13 @@ DC Comics kept using Arkham as hospital in some comics and asylum at others, som
 [^note369]: Danny Onneil, "The Sad Saga of Willy the Weeper!" *Joker* #2 July 1975, p.2. 
 
 
+
+
+
+- 
+- 
+
+
 Indeed, time after time Joker is either breaking free by himself -
 
 {% include figure.html
@@ -356,31 +370,46 @@ Or with the help of outside collaborators (as in *Joker*#2, with Weeping Willy).
 As we can see, while the 1970s Batman's tales often kick off with the release of patients from Arkham Hospital/Asylum, these rarely reflect the reality of effective treatment, such as the use of antipsychotic medications, or the legal reforms aimed at preventing the indefinite confinement of mentally ill individuals. The inability to confine dangerous “insane” criminals keeps resurfacing in these comics as a looming threat to society 
 
 It took until 1980 for Arkham to officially become Arkham Asylum, rather than being referred to as "Arkham Hospital" throughout the 1970s, but the core-narrative never changes: no one gets out of Arkham because of a successful treatment, psychosurgery or antipsychotic drugs, and followed with rehabilitation back to society; and neither do the new, civil-rights informed laws that forbid involuntary confinement of mentally ill people show up in these comics. 
-This stagnant portrayal begs the question: 
+This stagnant portrayal begs the question... or rather... the riddle:
 
-### What is the relation between real-life mental health practices of the 1970s and the depicting of the treatment of the criminally insane in Batman’s fictional context? Why does Arkham continue to evoke a haunting image of “criminally insane” patients trapped in a labyrinth of custodial settings, when in reality, American society was very much informed by court cases and laws that forbid involuntary confinement? 
+{% 
+include scrollybox/bg.html
+above-box-space="25vh"
+below-box-space="100vh"
+height="100vh"
+image-path="/scrollstory/images/for my project/riddler3.png"  
+box-content=" 
+Ridde me this: 
+
+  # *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
+  # *Yet that same era saw Arkham rise, where the criminally insane never leave.*
+  # *What ties liberation’s dawn to fiction’s endless night?*
+  # *Why does my playground defy the law’s progressive light?*"
+%}
+
+- 
+- 
 
 {% include figure.html
   class="right"
-  width="80%"
+  width="70%"
   caption="from *Batman* #260, 1975, p.6"
   image-path="scrollstory/images/for my project/1974 Batman 260 p6.png"
 %}
 
-Already in *Batman* #260 (February 1975), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!”  
+Already in *Batman* #260 (February 1975), when Batman is fighting Joker in Arkham Hospital after yet another take-over of the inmates, Joker is portrayed thinking: “How delightful, whatever happens to the Batman, the law can’t hold these homicidal maniacs responsible!” [^note441]
 
+[^note441]: Dennis Onneil, “This One’ll Kill You, Batman!” *Batman* #260 (DC Comics, February 1975) p.6.
 
-This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing,
+This is a critical commentary during a time when the notion of “danger to himself or others” was ruled in the high court. These same notions of the Joker keeps surfacing, as in the *Joker* #4, when he proudly tells his kidnappee:
 
 {%
 include aside.html
 class="left"
-width="50%"
-text="Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”" 
+width="100%"
+text="“Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”[^note424]" 
 %}
-
- as in the Joker #4, when he proudly tells his kidnappee: "Crazy is exactly what I am! My legal residence is a home for the criminally insane! I’m genuine, card-carrying Lock-you-up-throw-away-the-key LUNATIC! I can do whatever I want because I’m not legally responsible for my actions… the state is!”" [^note424]
-
+ 
 [^note424]: Elliot Shimmagin, "A Gold Star for The Joker," *Joker* #4 December 1975, p. 10.
 
 {% include figure.html
@@ -390,16 +419,156 @@ text="Crazy is exactly what I am! My legal residence is a home for the criminall
   image-path="scrollstory/images/for my project/1975 JOKER ISSUE 4.png"
 %}
 
+In these examples, the Joker discusses his rights as a mental patient and his accountability for his actions, reflecting the legal discussions of his time on mental health and the criminal system. This brings us to the murky waters of criminality, mental health, and the justice system. 
 
-In these examples, the Joker discusses his rights as a mental patient and his accountability for his actions and crimes, reflecting the legal discussions of his time. This brings us to the murky waters of criminality, mental health, and the justice system. 
-The social welfare state of 1960s used to assist and care for individuals with substance abuse issues, sex offenders, people with disabilities and undocumented immigrants. However, when president Nixon took over office in 1969 there was a significant shift in how society addressed issues like drug use, crime, and poverty. Policymakers moved away from rehabilitative approaches and leaned toward tougher methods, such as increased surveillance, harsher punishments, coercive tactics, and even quarantine. As state asylums and mental hospitals closed, a new type of institutionalization emerged in the criminal justice system. When severe mentally ill patients couldn’t access community mental health centers, or get real treatment, they often time ended in the streets, which, in turn, led to them disturbing the public order and landing in jail. The criminal justice system, thus, took over the care of these individuals and focused less on diagnosing mental health issues and more on punishing law-breaking behavior. [^note436]
+The social welfare state of 1960s used to assist and care for individuals with substance abuse issues, sex offenders, people with disabilities and undocumented immigrants. However, when President Nixon took over office in 1969 there was a significant shift in how society addressed issues like drug use, crime, and poverty. Policymakers moved away from rehabilitative approaches and leaned toward tougher methods, such as increased surveillance, harsher punishments, coercive tactics, and even quarantine. As state asylums and mental hospitals closed, a new type of institutionalization emerged in the criminal justice system. When severe mentally ill patients couldn’t access community mental health centers, or get real treatment, they often time ended in the streets, which, in turn, led to them disturbing the public order and landing in jail. The criminal justice system, thus, took over the care of these individuals and focused less on diagnosing mental health issues and more on punishing law-breaking behavior. Ironically, since there was so much public discourse surrounding the civil rights of mentally ill people, police officers who arrested mentally ill people for nonserious offenses could not civilly commit them, so they opted for sending them to jail. [^note481] 
 
-[^note436]: Parsons, *From Asylum to Prison*. p. 6.
+[^note481]: Parsons, *From Asylum to Prison*, pp. 6, 99, 106.
+
+Not only were there movements for civil rights, but also movements for the rights of prisoners which sought to pass bills and statues such as “The Good Time Bill” which aimed to diminish the abolish minimum sentences for most male prisoners. Even just thinking about the name, we can clearly see how such attempted policies were portrayed in Batman comics:  not a real chance of rehabilitation, but rather a “good time,” a real “home” which criminally insane people like the Joke can utilize to their advantage, not only to escape, but to turn to. In that same year, there was also a major event of riot in Attica’s prison, as the inmates took control of the facility. However, instead of demanding their release, they called instead for more rights and basic humanitarian conditions. An army of armed forces swapped the facility, ending up killing 41 inmates and guards. The mainstream media chose to tell a very different story, of which the prisoners had slit hostages’ throats to get their demands met before state troopers invaded. The whole event had led to increasing call for punitive rather than rehabilitative prisons. [^note485]
+
+[^note485]: Parson, *From Asylum to Prison*, pp. 111-112.
+
+{% include juxtapose.html
+image1="scrollstory/images/for my project/attica 1971 1.webp"
+image2="/scrollstory/images/for my project/ATTICA2.webp"
+caption="The 1971 prisoners riot in Attica prison, before and after."
+%}
 
 
-This what leads some to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. Batman’s comics reflect some vital questions about how society treats those with mental health issues and the effectiveness of the criminal justice system.  
+And so it was that in 1971 not only the Good Time Bill was rejected, but a whole shift in mental health commitment laws started taking place, along with the public’s complete loss of faith in the welfare government programs in mental health and in prison system to rehabilitate individuals. [^note498] And if that wasn’t enough, the insanity defense also went through some major changes. The very same year of The Joker comic series launched, the Michigan Code of Criminal Procedure shifted from a verdict of criminal defendant as “not guilty by reason of insanity” to “guilty but mentally ill” which still allowed the court to sentence them to prison rather than a mental hospital.[^note500] It’s been a long coming now, that the insanity defense was under great deal of legal debate and criticism, including calls for its abolition. Thus came the “guilty but mentally ill” to act as an alternative to an insanity acquittal: its incarceration component addressed public concerns about crime and safety and allayed uncertainty about the accuracy of psychiatric prediction, efficacy of treatment, and premature release into the general population. While it came under constitutional attack on the grounds of “the right to treatment”  and “equal protection,” other states courts soon followed and embraced its approach. [^note496] 
+
+[^note496]: “The Guilty but Mentally Ill Verdict and Due Process,” *The Yale Law Journal* 92, no. 3 (1983): pp.477–479. 
+
+[^note498]: Parsons, *From Asylum to Prison*, pp. 99, 115.
+
+[^note500]: Parsons, *From Asylum to Prison*, p. 140.
+
+This what leads some scholars, such as Parsons who I quoted all over here, to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. 
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *The Joker* #2, 1975, cover."
+  image-path="scrollstory/images/for my project/JOEKRLAW.png"
+%}
+
+While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
+
+### Why Do DC Comics choose to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead?
+
+
+{% include figure.html
+  class="left"
+  width="40%"
+  caption="from *The Joker* #1, 1975, p.18"
+  image-path="scrollstory/images/for my project/1joker p18.png"
+%}
+
+By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?
+
+To conclude this exploration of Arkham Asylum's shadowed halls, I argue that its establishment as a dedicated institution for the "criminally insane" was far more than a mere plot device—after all, why not simply send Batman’s rogues to ordinary prisons? Instead, Arkham served as a pointed commentary on the criminal justice and mental health systems of the mid-1970s, a time when deinstitutionalization was rapidly emptying state hospitals while public anxiety mounted over where the mentally ill—especially the dangerous ones—would end up.
+
+
+Figures like the Joker and Two-Face are not, in fact, insane in the clinical or legal sense. They meticulously plan their crimes, remain acutely aware of their surroundings, and stay firmly in touch with reality. The Joker, in particular, offers cynical meta-commentary on his own lack of responsibility, gleefully exploiting the system without even pretending to be detached from sanity—the state does that work for him by labeling him "criminally insane" and committing him to Arkham rather than prison. This revolving door of escapes and recommitments, vividly on display in The Joker’s 1975–1976 solo series, underscores a clear underlying message in DC Comics: such calculating, dangerous offenders belong in prisons, not therapeutic asylums.
+
+This fictional critique matches perfectly the real-world fears of the era. The Supreme Court’s O’Connor v. Donaldson decision in June 1975 prohibited indefinite civil commitment of non-dangerous individuals, accelerating releases and exposing the shortfall in community-care funding. Meanwhile, growing backlash against perceived leniency in criminal insanity defenses—exemplified by Michigan’s new Guilty But Mentally Ill verdict that same year—reflected public alarm over tax dollars wasted on treatment for the unreformable and the risk of dangerous individuals being "unleashed" back into society.
+
+
+# Conclusion
+
+From the shadowed gates of real asylums—evoking not just sanctuary but the horrors of indefinite confinement and stigma—to the fictional madness of Arkham Asylum, Batman comics have long served as a dark mirror to America's evolving relationship with mental illness. 
+
+What began in the Cold War era with McCarthyism and *Seduction of the Innocent* fears, went hand in hand with depiction of post WWII, both the threat of nuclear annihilation and concentration camps on American land through asylums. Sweeping deinstitutionalization reforms promised to amend these, such as JFK's 1963 Community Mental Health Act which promised community-based care over warehousing, culminating into the Supreme Court's landmark O’Connor v. Donaldson ruling in June 1975: states could no longer constitutionally confine non-dangerous individuals who could survive safely outside, regardless of diagnosis or perceived need for treatment. This accelerated mass releases, exposing the gap between idealistic policy and underfunded reality—led to rising homelessness, incarceration, and societal fears.
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption=""
+  image-path="scrollstory/images/for my project/batman-outside-arkham-asylum-in-dc-comics.avif"
+%}
+
+In this exact moment, DC Comics launched The Joker's solo series in May 1975, reviving him under Dennis O'Neil as a gleefully homicidal maniac repeatedly deemed "legally insane." His endless cycle—commit chaos, get caught, escape Arkham's supposedly secure walls—embodied the very fears deinstitutionalization provoked: What happens when the truly dangerous "mad" are not safely contained? While civil commitment laws tightened to protect patient rights and mandate least-restrictive care for the non-dangerous, criminal insanity debates heated up. Michigan's pioneering Guilty But Mentally Ill verdict that year addressed backlash against perceived leniency in Not Guilty by Reason of Insanity acquittals, emphasizing punishment alongside treatment and reflecting public anxiety over released offenders.
+
+{% include scrollybox/bg-sticky.html
+  image-path="scrollstory/images/for my project/game.jpg"
+  above-box-space="100vh"
+  below-box-space="80vh"
+  box-content="
+  Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. 
+  
+  ### As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. 
+  
+  ## These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
+  
+  # In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice.
+."
+%}
 
 
 
 
 
+
+
+# Bibliography
+
+### Primary Sources
+1. “Comth. ex rel. Ross v. Dye,” *The Pittsburgh Legal Journal* 102 (1954): 486-488.
+
+2. “Laughing Eel Surrenders,” *Pittsburgh Post-Gazette*, November 19, 1954.
+
+3.  “The Lavender Wheel.” 1950. Records of the U.S. Senate, RG 46. https://www.archives.gov/publications/prologue/2016/summer/lavender.html
+
+4. Finger, Bill. *Batman* #84. DC Comics, June 1954.
+
+5. Litvak, Anatole, dir. The Snake Pit. Twentieth Century-Fox, 1948.
+
+6. Maggin, Elliot S. “A Gold Star for the Joker.” *The Joker* #4. DC Comics, December 1975.
+
+7. O’neil, Dennis. “The Threat of the Two-Headed Coin.” *Batman* #258. DC Comics, October 1974.
+
+8. Onneil, Dennis. "The Joker's Double Jeopardy!" *The Joker* #1. DC Comics, May 1975.
+
+9. Onneil, Dennis. "The Sad Saga of Willy the Weepe!" *The Joker* #2. DC Comics, July 1975.
+
+10. Onneil, Dennis. “This One’ll Kill You, Batman!.” *Batman* # 260. DC Comics, February 1975.
+
+11. Rizzo, Anthony, director. Duck and Cover. Washington, D.C.: Federal Civil Defense Administration, 1951.
+
+12. Samachson, Joseph. *Batman* #18. DC Comics, August-September 1943.
+
+13. Siegel, Jerry. *Superman* #17. DC Comics, July–August 1942.
+
+### Secondary Sources
+
+1. Daniel, Yohanna. “Deinstitutionalization of People with Mental Illness: Causes and Consequences.” *Virtual Mentor American Medical Association Journal of Ethics* 15, no. 10 (2013): 886–91. https://doi.org/10.1001/virtualmentor.2013.15.10.mhst1-1310.
+
+2. Ecke, Jochen. *The British Comic Book Invasion: Alan Moore, Warren Ellis, Grant Morrison and the Evolution of the American Style*. McFarland & Company, Inc., Publishers, 2019.
+
+3. Grob, Gerald N. *The Mad Among Us.* The Free Press, 1994.
+
+4. Johnson, Jenell M. *American Lobotomy: A Rhetorical History.* University of Michigan Press, 2014.
+Leffler, Melvyn P., and Odd Arne Westad. *The Cambridge History of the Cold War*. Cambridge university press, 2010.
+
+5. Maisel, Albert Q. “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace.” *Life*, May 6, 1946.
+
+6. Mayes, Rick, and Allan V. Horwitz. “DSM-III and the Revolution in the Classification of Mental Illness.” *Journal of the History of the Behavioral Sciences* 41, no. 3 (2005): 249–67. https://doi.org/10.1002/jhbs.20103.
+
+7. Nadasen, Premilla, Jennifer Mittelstadt, and Marisa Chappell. *Welfare in the United States: A History with Documents, 1935-1996.* Taylor and Francis, 2013.
+
+8. Osborn, Lawrence A. “From Beauty to Despair: The Rise and Fall of the American State Mental Hospital.” *Psychiatric Quarterly* 80, no. 4 (2009): 219–31. https://doi.org/10.1007/s11126-009-9109-3.
+
+9. Parsons, Anne E. *From Asylum to Prison Deinstitutionalization and the Rise of Mass Incarceration after 1945.* The University of North Carolina Press, 2018.
+
+10. Stump, Tyler. “‘Road of No Return’: Farview State Hospital.” *Pennsylvania History: A Journal of Mid-Atlantic Studies* 88, no. 2 (2021): 198–234. https://doi.org/10.5325/pennhistory.88.2.0198.
+
+11. “The Guilty but Mentally Ill Verdict and Due Process,” *The Yale Law Journal* 92, no. 3 (1983): 475–98.
+
+12. Westad, Odd Arne. *The Cold War: A World History.* Basic Books, 2017.
+
+13. Westad, Odd Arne. *The Global Cold War Third World Interventions and the Making of Our Times.* Cambridge University Press, 2005.
+
+14. Wright, Bradford. *Comic Book Nation: The Transformation of Youth Culture In America.* Johns Hopkins University Press, 2003. https://doi.org/10.56021/9780801865145.
+
+15. York, Chris, and Rafiel York. *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns*. McFarland & Company, Inc., Publishers, 2012.
