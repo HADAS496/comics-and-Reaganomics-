@@ -580,7 +580,7 @@ In this exact moment, DC Comics launched The Joker's solo series in May 1975, re
   image-path="scrollstory/images/for my project/animated1.jpg"
 %}
 
-### These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
+## These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
 
 # In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice.
 
