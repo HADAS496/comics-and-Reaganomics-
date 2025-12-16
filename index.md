@@ -609,7 +609,7 @@ These fictional portrayals didn't just entertain; they reinforced cultural fears
 
 9. Onneil, Dennis. "The Sad Saga of Willy the Weepe!" *The Joker* #2. DC Comics, July 1975.
 
-10. Onneil, Dennis. “This One’ll Kill You, Batman!.” *Batman* # 260. DC Comics, February 1975.
+10. Onneil, Dennis. “This One’ll Kill You, Batman!.” *Batman* #260. DC Comics, February 1975.
 
 11. Rizzo, Anthony, director. Duck and Cover. Washington, D.C.: Federal Civil Defense Administration, 1951.
 
