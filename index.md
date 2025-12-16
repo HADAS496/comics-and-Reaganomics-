@@ -473,7 +473,7 @@ In these examples, the Joker discusses his rights as a mental patient and his ac
   class="center"
   width="100%"
   caption="from *The Joker* #2, 1975, cover."
-  image-path="scrollstory/images/for my project/JOKERLAW.png"
+  image-path="scrollstory/images/for my project/JOEKRLAW.png"
 %}
 
 
@@ -486,14 +486,6 @@ image1="scrollstory/images/for my project/attica 1971 1.webp"
 image2="/scrollstory/images/for my project/attica 1971.webp"
 caption="The 1971 prisoners riot in Attica prison, before and after."
 %}
-
-{% include figure.html
-  class="left"
-  width="50%"
-  caption="from *The Joker* #4, 1975, p.10"
-  image-path="scrollstory/images/for my project/attica 1.webp"
-%}
-
 
 
 And so it was that in 1971 not only the Good Time Bill was rejected, but a whole shift in mental health commitment laws started taking place (115), along with the public’s complete loss of faith in the welfare government programs in mental health and in prison system to rehabilitate individuals (99). And if that wasn’t enough, the insanity defense also went through some major changes. The very same year of The Joker comic series launched, the Michigan Code of Criminal Procedure shifted from a verdict of criminal defendant as “not guilty by reason of insanity” to “guilty but mentally ill” which still allowed the court to sentence them to prison rather than a mental hospital (Parsons, 140). It’s been a long coming now, that the insanity defense was under great deal of legal debate and criticism, including calls for its abolition. Thus came the “guilty but mentally ill” to act as an alternative to an insanity acquittal: its incarceration component addressed public concerns about crime and safety and allayed uncertainty about the accuracy of psychiatric prediction, efficacy of treatment, and premature release into the general population. While it came under constitutional attack on the grounds of “the right to treatment”  and “equal protection.,” other states courts soon followed and embraced its approach (“The Guilty but Mentally Ill Verdict and Due Process,” The Yale Law Journal 92, no. 3 (1983): 477–479). 
