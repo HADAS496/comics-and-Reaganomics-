@@ -219,7 +219,7 @@ This book played a significant role in the criticism of comics during that time,
 
 ### The fact that Wertham chose to speak out against comics, leveraging his authority as a psychiatrist (notice the "MD" by his name in a book about popular culture?) should also tell us something about the significant changes in public attitudes toward the mental health field that was taking place during the 1940s and 1950s. 
 
-In 1946, Albert Q. Maisel, a writer for Life magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
+In 1946, Albert Q. Maisel, a writer for *Life* magazine, published a groundbreaking exposé that revealed the deplorable conditions in state mental hospitals and asylums. His investigation ignited a nationwide conversation about the treatment of individuals with mental illnesses during that era. 
 {% include figure.html
   class="left"
   width="30%"
@@ -250,7 +250,7 @@ height="100vh"
 image-path="/scrollstory/images/for my project/holocaust.png"
 %}
 
-The above picture to the right, taken from Maisel's article, shows a visibly emaciated woman, abandoned and left to suffer, her frail figure and distended abdomen embodying the despair that many experience daily. One of the most harrowing revelations in Maisel’s article is his stark comparison of U.S. mental health institutions to Nazi concentration camps. Next to it, I've compiled two pictures from the liberation of Auschwitz that circulated ever since 1945. By evoking these pictures and connections, Maisel powerfully argued that “through public and legislative penny-pinching, state after state has allowed its institutions for the care and cure of the mentally ill to degenerate into little more than concentration camps on the Belsen pattern.” [^note234] 
+The above picture on the right, taken from Maisel's article, shows a visibly emaciated woman, abandoned and left to suffer, her frail figure and distended abdomen embodying the despair that many experience daily. One of the most harrowing revelations in Maisel’s article is his stark comparison of U.S. mental health institutions to Nazi concentration camps. Next to it, I've compiled two pictures from the liberation of Auschwitz that circulated ever since 1945. By evoking these pictures and connections, Maisel powerfully argued that “through public and legislative penny-pinching, state after state has allowed its institutions for the care and cure of the mentally ill to degenerate into little more than concentration camps on the Belsen pattern.” [^note234] 
 
 [^note234]: Albert Q. Maisel, “Bedlam 1946 Most U.S. Mental Hospital Are a Shame and a Disgrace,” *Life*, May 6, 1946, p.118.
 
@@ -555,10 +555,12 @@ What began in the Cold War era with McCarthyism and *Seduction of the Innocent* 
 
 In this exact moment, DC Comics launched The Joker's solo series in May 1975, reviving him under Dennis O'Neil as a gleefully homicidal maniac repeatedly deemed "legally insane." His endless cycle—commit chaos, get caught, escape Arkham's supposedly secure walls—embodied the very fears deinstitutionalization provoked: What happens when the truly dangerous "mad" are not safely contained? While civil commitment laws tightened to protect patient rights and mandate least-restrictive care for the non-dangerous, criminal insanity debates heated up. Michigan's pioneering Guilty But Mentally Ill verdict that year addressed backlash against perceived leniency in Not Guilty by Reason of Insanity acquittals, emphasizing punishment alongside treatment and reflecting public anxiety over released offenders.
 
+Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice
+
 {% include scrollybox/bg-sticky.html
  image-path="scrollstory/images/for my project/game.jpg"  
   below-box-space="80vh"
-  box-content="Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice."
+  box-content="."
 %}
 
 
