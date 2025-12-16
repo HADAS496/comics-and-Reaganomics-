@@ -439,7 +439,7 @@ This stagnant portrayal begs the question... or rather... the riddle:
 
 {% 
 include scrollybox/bg.html
-above-box-space="25vh"
+above-box-space="100vh"
 below-box-space="100vh"
 height="100vh"
 image-path="/scrollstory/images/for my project/riddler3.png"  
