@@ -374,17 +374,17 @@ This stagnant portrayal begs the question... or rather... the riddle:
 
 {% 
 include scrollybox/bg.html
-above-box-space="25vh"
-below-box-space="100vh"
+above-box-space="10vh"
+below-box-space="10vh"
 height="100vh"
 image-path="/scrollstory/images/for my project/riddler3.png"  
 box-content=" 
 Ridde me this: 
 
-  # *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
-  # *Yet that same era saw Arkham rise, where the criminally insane never leave.*
-  # *What ties liberation’s dawn to fiction’s endless night?*
-  # *Why does my playground defy the law’s progressive light?*"
+  *In the seventies, real courts unlocked the mad—'No more cages!' they decreed.*
+  *Yet that same era saw Arkham rise, where the criminally insane never leave.*
+  *What ties liberation’s dawn to fiction’s endless night?*
+  *Why does my playground defy the law’s progressive light?*"
 %}
 
 - 
@@ -425,6 +425,14 @@ The social welfare state of 1960s used to assist and care for individuals with s
 
 [^note481]: Parsons, *From Asylum to Prison*, pp. 6, 99, 106.
 
+
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *The Joker* #2, 1975, cover."
+  image-path="scrollstory/images/for my project/JOEKRLAW.png"
+%}
+
 Not only were there movements for civil rights, but also movements for the rights of prisoners which sought to pass bills and statues such as “The Good Time Bill” which aimed to diminish the abolish minimum sentences for most male prisoners. Even just thinking about the name, we can clearly see how such attempted policies were portrayed in Batman comics:  not a real chance of rehabilitation, but rather a “good time,” a real “home” which criminally insane people like the Joke can utilize to their advantage, not only to escape, but to turn to. In that same year, there was also a major event of riot in Attica’s prison, as the inmates took control of the facility. However, instead of demanding their release, they called instead for more rights and basic humanitarian conditions. An army of armed forces swapped the facility, ending up killing 41 inmates and guards. The mainstream media chose to tell a very different story, of which the prisoners had slit hostages’ throats to get their demands met before state troopers invaded. The whole event had led to increasing call for punitive rather than rehabilitative prisons. [^note485]
 
 [^note485]: Parson, *From Asylum to Prison*, pp. 111-112.
@@ -444,31 +452,29 @@ And so it was that in 1971 not only the Good Time Bill was rejected, but a whole
 
 [^note500]: Parsons, *From Asylum to Prison*, p. 140.
 
-This what leads some scholars, such as Parsons who I quoted all over here, to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. 
+This what leads some scholars, such as Parsons who I quoted all over here, to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
 
-{% include figure.html
-  class="center"
-  width="100%"
-  caption="from *The Joker* #2, 1975, cover."
-  image-path="scrollstory/images/for my project/JOEKRLAW.png"
-%}
 
-While Batman’s comics reflect some vital questions about how society views those with mental health issues and the effectiveness of the criminal justice system, it still leaves us one great riddle: 
-
-### Why Do DC Comics choose to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead?
 
 
 {% include figure.html
   class="left"
-  width="40%"
+  width="60%"
   caption="from *The Joker* #1, 1975, p.18"
   image-path="scrollstory/images/for my project/1joker p18.png"
 %}
 
+### Why Do DC Comics choose to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? 
 By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape?
 
 To conclude this exploration of Arkham Asylum's shadowed halls, I argue that its establishment as a dedicated institution for the "criminally insane" was far more than a mere plot device—after all, why not simply send Batman’s rogues to ordinary prisons? Instead, Arkham served as a pointed commentary on the criminal justice and mental health systems of the mid-1970s, a time when deinstitutionalization was rapidly emptying state hospitals while public anxiety mounted over where the mentally ill—especially the dangerous ones—would end up.
 
+{% include figure.html
+  class="right"
+  width="30%"
+  caption=""
+  image-path="scrollstory/images/for my project/1987.png"
+  %}
 
 Figures like the Joker and Two-Face are not, in fact, insane in the clinical or legal sense. They meticulously plan their crimes, remain acutely aware of their surroundings, and stay firmly in touch with reality. The Joker, in particular, offers cynical meta-commentary on his own lack of responsibility, gleefully exploiting the system without even pretending to be detached from sanity—the state does that work for him by labeling him "criminally insane" and committing him to Arkham rather than prison. This revolving door of escapes and recommitments, vividly on display in The Joker’s 1975–1976 solo series, underscores a clear underlying message in DC Comics: such calculating, dangerous offenders belong in prisons, not therapeutic asylums.
 
@@ -490,9 +496,35 @@ What began in the Cold War era with McCarthyism and *Seduction of the Innocent* 
 
 In this exact moment, DC Comics launched The Joker's solo series in May 1975, reviving him under Dennis O'Neil as a gleefully homicidal maniac repeatedly deemed "legally insane." His endless cycle—commit chaos, get caught, escape Arkham's supposedly secure walls—embodied the very fears deinstitutionalization provoked: What happens when the truly dangerous "mad" are not safely contained? While civil commitment laws tightened to protect patient rights and mandate least-restrictive care for the non-dangerous, criminal insanity debates heated up. Michigan's pioneering Guilty But Mentally Ill verdict that year addressed backlash against perceived leniency in Not Guilty by Reason of Insanity acquittals, emphasizing punishment alongside treatment and reflecting public anxiety over released offenders.
 
+{% include figure.html
+  class="right"
+  width="45%"
+  caption=""
+  image-path="scrollstory/images/for my project/asylumsymbol.jpg"
+%}
+
+## Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. 
+
+### As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. 
+
+{% include figure.html
+  class="left"
+  width="45%"
+  caption=""
+  image-path="scrollstory/images/for my project/animated1.jpg"
+%}
+
+## These fictional portrayals didn't just entertain; they reinforced cultural fears, distracting from the real challenge: building robust community supports post-deinstitutionalization. 
+
+# In the end, the Joker's laughter echoes a societal joke—prioritizing spectacle and punishment over nuanced understanding of mental health and justice.
 
 
-
+{% include figure.html
+  class="center"
+  width="100%"
+  caption=""
+  image-path="scrollstory/images/for my project/game.jpg"
+%}
 
 
 
@@ -518,7 +550,7 @@ In this exact moment, DC Comics launched The Joker's solo series in May 1975, re
 
 9. Onneil, Dennis. "The Sad Saga of Willy the Weepe!" *The Joker* #2. DC Comics, July 1975.
 
-10. Onneil, Dennis. “This One’ll Kill You, Batman!.” *Batman* # 260. DC Comics, February 1975.
+10. Onneil, Dennis. “This One’ll Kill You, Batman!.” *Batman* #260. DC Comics, February 1975.
 
 11. Rizzo, Anthony, director. Duck and Cover. Washington, D.C.: Federal Civil Defense Administration, 1951.
 
