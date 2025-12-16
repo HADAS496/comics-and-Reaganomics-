@@ -536,10 +536,10 @@ By the 1980s, even the morally ambiguous Two-Face, a character torn between good
 To conclude this exploration of Arkham Asylum's shadowed halls, I argue that its establishment as a dedicated institution for the "criminally insane" was far more than a mere plot device—after all, why not simply send Batman’s rogues to ordinary prisons? Instead, Arkham served as a pointed commentary on the criminal justice and mental health systems of the mid-1970s, a time when deinstitutionalization was rapidly emptying state hospitals while public anxiety mounted over where the mentally ill—especially the dangerous ones—would end up.
 
 {% include figure.html
-  class="center"
-  width="100%"
+  class="right"
+  width="60%"
   caption=""
-  image-path="scrollstory/images/for my project/1987 DITF NO 1.png"
+  image-path="scrollstory/images/for my project/1987.png"
   %}
 
 Figures like the Joker and Two-Face are not, in fact, insane in the clinical or legal sense. They meticulously plan their crimes, remain acutely aware of their surroundings, and stay firmly in touch with reality. The Joker, in particular, offers cynical meta-commentary on his own lack of responsibility, gleefully exploiting the system without even pretending to be detached from sanity—the state does that work for him by labeling him "criminally insane" and committing him to Arkham rather than prison. This revolving door of escapes and recommitments, vividly on display in The Joker’s 1975–1976 solo series, underscores a clear underlying message in DC Comics: such calculating, dangerous offenders belong in prisons, not therapeutic asylums.
