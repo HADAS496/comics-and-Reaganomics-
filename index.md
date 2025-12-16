@@ -557,6 +557,7 @@ In this exact moment, DC Comics launched The Joker's solo series in May 1975, re
 
 {% include scrollybox/bg-sticky.html
  image-path="scrollstory/images/for my project/game.jpg"  
+  above-box-space="80vh"
   below-box-space="80vh"
   box-content="
    ### Arkham's revolving door, then, was no mere plot convenience; it perpetuated stigma, warning of unreformable chaos in an era pushing for rehabilitation over isolation. As a child dressing as Batman for Purim, captivated by the hero's brooding justice, I never questioned Arkham's gates—until connecting them to my grandmother's Auschwitz survival and the word "asylum's" dual meaning of refuge and prison. 
