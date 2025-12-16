@@ -637,10 +637,12 @@ Leffler, Melvyn P., and Odd Arne Westad. *The Cambridge History of the Cold War*
 
 10. Stump, Tyler. “‘Road of No Return’: Farview State Hospital.” *Pennsylvania History: A Journal of Mid-Atlantic Studies* 88, no. 2 (2021): 198–234. https://doi.org/10.5325/pennhistory.88.2.0198.
 
-11. Westad, Odd Arne. *The Cold War: A World History.* Basic Books, 2017.
+11. “The Guilty but Mentally Ill Verdict and Due Process,” *The Yale Law Journal* 92, no. 3 (1983): 475–98.
 
-12. Westad, Odd Arne. *The Global Cold War Third World Interventions and the Making of Our Times.* Cambridge University Press, 2005.
+12. Westad, Odd Arne. *The Cold War: A World History.* Basic Books, 2017.
 
-13. Wright, Bradford. *Comic Book Nation: The Transformation of Youth Culture In America.* Johns Hopkins University Press, 2003. https://doi.org/10.56021/9780801865145.
+13. Westad, Odd Arne. *The Global Cold War Third World Interventions and the Making of Our Times.* Cambridge University Press, 2005.
 
-13. York, Chris, and Rafiel York. *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns*. McFarland & Company, Inc., Publishers, 2012.
+14. Wright, Bradford. *Comic Book Nation: The Transformation of Youth Culture In America.* Johns Hopkins University Press, 2003. https://doi.org/10.56021/9780801865145.
+
+15. York, Chris, and Rafiel York. *Comic Books and the Cold War, 1946-1962: Essays on Graphic Treatment of Communism, the Code and Social Concerns*. McFarland & Company, Inc., Publishers, 2012.
