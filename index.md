@@ -469,14 +469,6 @@ text="“Crazy is exactly what I am! My legal residence is a home for the crimin
 
 In these examples, the Joker discusses his rights as a mental patient and his accountability for his actions, reflecting the legal discussions of his time on mental health and the criminal system. This brings us to the murky waters of criminality, mental health, and the justice system. 
 
-{% include figure.html
-  class="center"
-  width="100%"
-  caption="from *The Joker* #2, 1975, cover."
-  image-path="scrollstory/images/for my project/JOEKRLAW.png"
-%}
-
-
 The social welfare state of 1960s used to assist and care for individuals with substance abuse issues, sex offenders, people with disabilities and undocumented immigrants. However, when President Nixon took over office in 1969 there was a significant shift in how society addressed issues like drug use, crime, and poverty. Policymakers moved away from rehabilitative approaches and leaned toward tougher methods, such as increased surveillance, harsher punishments, coercive tactics, and even quarantine. As state asylums and mental hospitals closed, a new type of institutionalization emerged in the criminal justice system. When severe mentally ill patients couldn’t access community mental health centers, or get real treatment, they often time ended in the streets, which, in turn, led to them disturbing the public order and landing in jail. The criminal justice system, thus, took over the care of these individuals and focused less on diagnosing mental health issues and more on punishing law-breaking behavior. Ironically, since there was so much public discourse surrounding the civil rights of mentally ill people, police officers who arrested mentally ill people for nonserious offenses could not civilly commit them, so they opted for sending them to jail. [^note481] 
 
 [^note481]: Parsons, *From Asylum to Prison*, pp. 6, 99, 106.
@@ -492,7 +484,7 @@ caption="The 1971 prisoners riot in Attica prison, before and after."
 %}
 
 
-And so it was that in 1971 not only the Good Time Bill was rejected, but a whole shift in mental health commitment laws started taking place, along with the public’s complete loss of faith in the welfare government programs in mental health and in prison system to rehabilitate individuals. [^note498] And if that wasn’t enough, the insanity defense also went through some major changes. The very same year of The Joker comic series launched, the Michigan Code of Criminal Procedure shifted from a verdict of criminal defendant as “not guilty by reason of insanity” to “guilty but mentally ill” which still allowed the court to sentence them to prison rather than a mental hospital.[^note500] It’s been a long coming now, that the insanity defense was under great deal of legal debate and criticism, including calls for its abolition. Thus came the “guilty but mentally ill” to act as an alternative to an insanity acquittal: its incarceration component addressed public concerns about crime and safety and allayed uncertainty about the accuracy of psychiatric prediction, efficacy of treatment, and premature release into the general population. While it came under constitutional attack on the grounds of “the right to treatment”  and “equal protection,” other states courts soon followed and embraced its approach. [note496] 
+And so it was that in 1971 not only the Good Time Bill was rejected, but a whole shift in mental health commitment laws started taking place, along with the public’s complete loss of faith in the welfare government programs in mental health and in prison system to rehabilitate individuals. [^note498] And if that wasn’t enough, the insanity defense also went through some major changes. The very same year of The Joker comic series launched, the Michigan Code of Criminal Procedure shifted from a verdict of criminal defendant as “not guilty by reason of insanity” to “guilty but mentally ill” which still allowed the court to sentence them to prison rather than a mental hospital.[^note500] It’s been a long coming now, that the insanity defense was under great deal of legal debate and criticism, including calls for its abolition. Thus came the “guilty but mentally ill” to act as an alternative to an insanity acquittal: its incarceration component addressed public concerns about crime and safety and allayed uncertainty about the accuracy of psychiatric prediction, efficacy of treatment, and premature release into the general population. While it came under constitutional attack on the grounds of “the right to treatment”  and “equal protection,” other states courts soon followed and embraced its approach. [^note496] 
 
 [^note496]: “The Guilty but Mentally Ill Verdict and Due Process,” *The Yale Law Journal* 92, no. 3 (1983): pp.477–479. 
 
@@ -503,6 +495,15 @@ And so it was that in 1971 not only the Good Time Bill was rejected, but a whole
 
 This what leads some to argue that deinstitutionalization was more of trans-institutionalization, as it didn’t truly eliminate confinement but rather transformed it—making it so that individuals with severe mental illness transitioned from mental hospitals into prisons, with occasional stop at the streets. Batman’s comics reflect some vital questions about how society treats those with mental health issues and the effectiveness of the criminal justice system.  
 
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="from *The Joker* #2, 1975, cover."
+  image-path="scrollstory/images/for my project/JOEKRLAW.png"
+%}
+
+
+What does it really signify when DC Comics chooses to portray the Joker as the epitome of criminal insanity, the ultimate denizen of Arkham Asylum, despite compelling evidence pointing to his need for a traditional prison cell instead? By the 1980s, even the morally ambiguous Two-Face, a character torn between good and evil, finds himself unjustly categorized alongside the Joker in that infamous asylum instead of receiving the mental health treatment he desperately needs to rehabilitate. Is this a mere plot device, or does it reflect a deeper commentary on justice, morality, and the very nature of sanity within Gotham’s chaotic landscape? The stark contrast between these two iconic villains raises questions that linger long after the pages are turned.
 
 
 
