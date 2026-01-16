@@ -380,7 +380,7 @@ height="40vh"
 image-path="/scrollstory/images/for my project/joker1975 g.png"
 %}
 
-## DC Comics made a very bold move. After two decades of Joker almost disappearing and beingmore of a goofy harmless prankster rather than a serious criminal and threat to Batman-  
+## DC Comics made a very bold move. After two decades of Joker almost disappearing and being more of a goofy harmless prankster rather than a serious criminal and threat to Batman-  
 # The comic company decided on launching a dedicated series all for him. 
 
 
