@@ -2,9 +2,8 @@
 title: About
 layout: base
 ---
-
+Hadas Segal
 # When you hear the word “Asylum,” what vivid images come to life in your mind? 
-
 
 {% include juxtapose.html
 image1="scrollstory\images\for my project\good asylum.jpg"
